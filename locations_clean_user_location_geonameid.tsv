@@ -12,7 +12,7 @@ California, USA	54503	5332921
 France	54481	3017382
 Lagos, Nigeria	52122	2332453
 United Kingdom	48965	2635167
-México	46987	3523272
+México	46987	3996063
 Paris, France	46026	2988507
 España	44838	2510769
 Nigeria	44185	2328926
@@ -106,13 +106,13 @@ Madrid, España	11134	3117732
 Georgia, USA	11109	4197000
 Washington, D.C.	11065	4140963
 Denver, CO	11054	5419384
-Catalunya	10965	
+Catalonia	10965	3336901
 Phoenix, AZ	10915	5308655
 Florida	10805	98
 Text RESIST to 50409	10803	
 Türkiye	10656	298795
 Montevideo, Uruguay	10343	3441572
-Ciudad Autónoma de Buenos Aire	10308	
+Ciudad Autónoma de Buenos Aire	10308	690791
 Nashville, TN	10219	4644585
 World	10150	
 Ciudad de México	10107	3530597
@@ -191,7 +191,7 @@ Nederland	6739	5432410
 Washington DC	6665	4140963
 Calgary, Alberta	6649	5913490
 Bogotá, Colombia	6642	3688689
-CDMX	6549	
+CDMX	6549	3527646
 Ottawa, Ontario	6527	6094817
 Quito, Ecuador	6512	3652462
 Tennessee, USA	6501	4662168
@@ -206,7 +206,7 @@ Berlin, Germany	6240	2950157
 Boston	6230	4930956
 Indiana, USA	6221	4921868
 日本	6205	1861060
-Puebla, México	6193	3523272
+Puebla, México	6193	3521082
 Portugal	6139	2264397
 Internet	6128	
 Indianapolis, IN	6082	4259418
@@ -231,7 +231,7 @@ St Louis, MO	5590	4407066
 Seattle	5588	5809844
 Nairobi	5562	184745
 Queens, NY	5498	5133273
-Lima, Perú	5486	
+Lima, Perú	5486	3936451
 Chennai	5459	1264527
 Raleigh, NC	5455	4487042
 Japan	5447	1861060
@@ -249,21 +249,21 @@ Jakarta	5278	1642907
 South East, England	5224	6269131
 Kentucky, USA	5194	6254925
 Caracas	5150	3646738
-Southern California	5140	
+California	5140	5332921
 Birmingham, England	5124	2655603
 United States of America	5101	6252001
 Dublin, Ireland	5096	2964574
 Barranquilla, Colombia	5093	3689147
 Louisville, KY	5085	4299276
 Liverpool, England	5066	2644210
-Caracas - Venezuela	5061	
+Caracas - Venezuela	5061	3640847
 Bolivia	5042	3923057
 Costa Rica	5019	3624060
 Buffalo, NY	4970	5110629
 Cincinnati, OH	4937	4508722
 Noida, India	4930	7279746
 Dublin	4928	2964574
-The Netherlands	4928	
+The Netherlands	4928	2750405
 Jamaica	4925	3489940
 Ohio	4907	5165418
 Brussels	4897	2800866
@@ -274,7 +274,7 @@ Asuncion, Paraguay	4859	3474570
 Belo Horizonte, Brasil	4852	3470127
 Milano	4840	3173435
 Pretoria, South Africa	4828	964137
-Distrito Federal, México	4807	3523272
+Distrito Federal, México	4807	3996063
 Alabama, USA	4762	4829764
 Perth, Western Australia	4737	2063523
 Manchester	4703	3489586
@@ -285,7 +285,7 @@ Mendoza, Argentina	4581	3844419
 Amsterdam	4561	2759794
 Senegal	4546	2245662
 Santiago de Chile	4528	3871336
-República Dominicana	4524	
+República Dominicana	4524	3508796
 NY	4514	5128638
 San Jose, CA	4481	5392171
 Delhi, India	4466	1273293
@@ -311,7 +311,7 @@ Atlanta	4015	4180439
 North Carolina	3999	4482348
 South West, England	3993	6269131
 Marseille, France	3987	2995469
-Perú	3983	
+Perú	3983	3932488
 İstanbul	3980	745044
 Salt Lake City, UT	3971	5780993
 Louisiana, USA	3950	4331987
@@ -323,8 +323,8 @@ British Columbia, Canada	3819	97
 London, United Kingdom	3812	2643743
 Liverpool	3788	2644210
 Tokyo	3775	1850144
-Jakarta Capital Region	3774	
-भारत	3773	
+Jakarta Capital Region	3774	1642911
+भारत	3773	1269750
 La Plata, Argentina	3770	3432043
 Dhaka, Bangladesh	3765	1337179
 Bronx, NY	3741	5110266
@@ -361,7 +361,7 @@ india	3320	1269750
 Geneva, Switzerland	3310	2660645
 Málaga, España	3301	2514256
 Chandigarh, India	3299	1274744
-Estados Unidos	3259	
+Estados Unidos	3259	6252001
 Vancouver	3256	6173331
 INDIA	3235	1269750
 Birmingham, AL	3230	4049979
@@ -370,7 +370,7 @@ Recife, Brasil	3228	3390760
 Lisboa, Portugal	3218	2267057
 Albuquerque, NM	3201	5454711
 Ibadan, Nigeria	3196	2339354
-San Francisco Bay Area	3196	
+San Francisco Bay Area	3196	5391959
 Adelaide, South Australia	3192	2078025
 West Midlands, England	3191	6269131
 Stockholm, Sweden	3182	2673722
@@ -380,7 +380,7 @@ Edinburgh	3159	2650225
 Canberra	3155	2172517
 Portland, Oregon	3151	5746545
 Iowa, USA	3124	4862182
-Bruxelles, Belgique	3113	
+Bruxelles, Belgique	3113	2800866
 Nepal	3104	1282988
 Vancouver, BC	3104	6173331
 Arlington, VA	3102	4744709
@@ -397,7 +397,7 @@ Curitiba, Brasil	3058	3464975
 Bangladesh	3041	1210997
 Lille, France	3039	2998324
 Porto Alegre, Brasil	3036	3452925
-Diksmuide, België	3033	
+Diksmuide, België	3033	2799369
 Rochester, NY	3028	5134086
 Madison, WI	3014	5261457
 Bordeaux, France	3006	3031582
@@ -409,13 +409,13 @@ Gujarat, India	2983	1270770
 Kansas, USA	2973	4273857
 Pennsylvania	2968	6254927
 Barcelona, Catalunya	2956	
-日本 東京	2934	
+日本 東京	2934	1850144
 North East, England	2928	6269131
 New Delhi, Delhi	2928	1273294
 Minnesota	2913	5037779
 Cardiff, Wales	2911	2653822
 Houston, Texas	2911	4699066
-Belgique	2886	
+Belgique	2886	2802361
 Maharashtra, India	2881	1264418
 Maine, USA	2878	4971068
 Miami	2863	4164138
@@ -434,20 +434,20 @@ Honolulu, HI	2788	5856195
 Charleston, SC	2787	4574324
 Georgia	2782	614540
 Salvador, Brasil	2752	3450554
-Wien, Österreich	2747	
+Wien, Österreich	2747	2761369
 Illinois	2746	4896861
 Santa Fe, Argentina	2742	3836276
 Nottingham, England	2739	2641170
 Mar del Plata, Argentina	2737	3430863
-Federal Capital Territory, Nig	2732	
+Federal Capital Territory, Nig	2732	2328926
 Durham, NC	2730	4464368
 Oxford, England	2726	2640729
-South Florida	2713	
+Florida	2713	98
 Harare, Zimbabwe	2709	1105844
-Amsterdam, The Netherlands	2679	
+Amsterdam, The Netherlands	2679	2759794
 Montreal	2679	6077243
 Mars	2678	
-République Démocratique Du Con	2662	
+République Démocratique Du Con	2662	2260494
 Santo Domingo	2662	6201373
 Berkeley, CA	2660	5327684
 El Paso, TX	2647	5520993
@@ -472,7 +472,7 @@ Knoxville, TN	2505	4634946
 Zaragoza, España	2505	3104324
 Kuwait	2504	285570
 İzmir, Türkiye	2502	311044
-🇵🇭	2501	
+🇵🇭	2501	1694008
 Boise, ID	2499	5586437
 Jacksonville, FL	2495	4160021
 Manila	2492	1701668
@@ -504,7 +504,7 @@ argentina	2374	3865483
 Cambridge, England	2369	2653941
 Northern Ireland	2368	2641364
 Here	2367	
-Polska	2363	
+Polska	2363	798544
 Winnipeg, Manitoba	2349	6183235
 New Mexico, USA	2348	5481136
 Porto, Portugal	2345	2735941
@@ -521,7 +521,7 @@ Queensland, Australia	2315	2152274
 Washington D.C.	2308	4140963
 Hawaii, USA	2290	5855797
 Hell	2289	
-Côte d'Ivoire	2288	
+Côte d'Ivoire	2288	2287781
 Fortaleza, Brasil	2286	3399415
 Indiana	2271	4921868
 Hamburg, Deutschland	2262	2911297
@@ -531,7 +531,7 @@ Doha, Qatar	2250	290030
 Pune	2242	1259229
 CA	2234	5332921
 Providence, RI	2230	5224151
-Kingdom of Saudi Arabia	2219	
+Kingdom of Saudi Arabia	2219	2287781
 Mérida, Yucatán	2219	3523349
 Bruxelles	2216	2800866
 St. Louis, MO	2213	4407066
@@ -554,7 +554,7 @@ Concepción, Chile	2137	3893894
 North America	2124	
 Somalia	2118	51537
 Bengaluru South, India	2110	1269750
-ประเทศไทย	2109	
+ประเทศไทย	2109	1605651
 Ahmedabad	2107	1279233
 Toronto, ON	2103	6167865
 Punjab, Pakistan	2102	1167710
@@ -572,7 +572,7 @@ Luxembourg	2065	2960313
 Northern California	2058	
 Columbus, Ohio	2057	4509177
 Toronto, Ontario, Canada	2052	6167865
-SoCal	2051	
+California	2051	5332921
 Port Harcourt, Nigeria	2051	2324774
 FRANCE	2049	3017382
 Nantes, France	2038	2990969
@@ -591,7 +591,7 @@ Fresno, CA	1985	5350937
 Earth 	1982	
 Granada, España	1982	2517117
 New Haven, CT	1982	4839366
-San Luis Potosí, México	1982	3523272
+San Luis Potosí, México	1982	3985605
 Copenhagen, Denmark	1982	2618425
 Makati City	1980	1703417
 Victoria, Australia	1980	2145234
@@ -612,8 +612,8 @@ Bristol	1922	2654675
 Tennessee	1921	4662168
 Cameroon	1919	2233387
 Santa Monica, CA	1915	5393212
-México DF	1915	
-Bay Area	1915	
+México DF	1915	3527646
+Bay Area	1915	5391959
 West Palm Beach, FL	1915	4177887
 Washington	1912	5815135
 Maracaibo, Venezuela	1909	3633009
@@ -631,12 +631,12 @@ Beijing	1878	2038349
 India 	1876	1269750
 Tucumán, Argentina	1872	3836873
 Spokane, WA	1870	5811696
-México, D.F.	1870	
+México, D.F.	1870	3527646
 Rio de Janeiro, Brazil	1867	3451189
 Detroit	1865	4990729
 Virginia Beach, VA	1863	4791259
 Corrientes, Argentina	1861	3435214
-Republica Dominicana	1857	
+Republica Dominicana	1857	3508796
 Silicon Valley	1840	
 Asunción, Paraguay	1838	3474570
 Grand Rapids, MI	1828	4994358
@@ -645,7 +645,7 @@ Long Island, NY	1820	5125125
 global	1819	
 Guwahati, India	1818	1271476
 Indore, India	1817	1269743
-Москва, Россия	1810	
+Москва, Россия	1810	524901
 Palo Alto, CA	1809	5380748
 Neuquén, Argentina	1808	3843123
 Goiânia, Brasil	1806	3462377
@@ -653,7 +653,7 @@ WORLDWIDE	1805
 Murcia, España	1803	2513413
 Kerala, India	1800	1267254
 Zimbabwe	1799	878675
-Caracas, Distrito Capital	1793	
+Caracas, Distrito Capital	1793	3640847
 New Orleans	1791	4335045
 Tanzania	1790	149590
 Stockholm	1790	2673722
@@ -664,11 +664,11 @@ Pacific Northwest	1784
 Kansas City	1781	4393217
 Gold Coast, Queensland	1781	2165087
 Namibia	1780	3355338
-London UK	1772	
+London UK	1772	2643741
 Birmingham	1768	2655603
 Halifax, Nova Scotia	1766	6324729
 South Carolina	1763	4597040
-Seoul, Republic of Korea	1762	
+Seoul, Republic of Korea	1762	1835847
 Marseille	1761	2995469
 Reno, NV	1759	5511077
 Afghanistan	1759	1149361
@@ -677,7 +677,7 @@ Lagos Nigeria	1754
 Rio Grande do Sul, Brasil	1752	3451133
 Columbia, SC	1749	4575352
 Calgary	1748	5913490
-กรุงเทพมหานคร, ประเทศไทย	1746	
+กรุงเทพมหานคร, ประเทศไทย	1746	1609350
 Ciudad Autónoma de Buenos Aires, Argentina	1745	3435910
 Alicante, España	1742	2521978
 Trenggalek, Indonesia	1737	1623251
@@ -704,7 +704,7 @@ Belo Horizonte	1686	3470127
 Islas Canarias, España	1680	2510769
 Hamilton, Ontario	1678	5969782
 Bihar, India	1678	1275715
-Jakarta Capital Region, Indone	1673	
+Jakarta Capital Region, Indone	1673	1643084
 San Antonio, Texas	1670	4726206
 City of London, London	1663	2643743
 Kansas	1655	4273857
@@ -719,7 +719,7 @@ Oklahoma	1634	4544379
 La Habana, Cuba	1633	3553478
 Greece	1632	390903
 Querétaro, Querétaro Arteaga	1629	
-नई दिल्ली, भारत	1623	
+नई दिल्ली, भारत	1623	1273294
 Shanghai	1622	1796231
 Baltimore	1621	4347778
 Nowhere	1621	
@@ -750,12 +750,12 @@ Atlanta, Georgia	1569	614540
 Victoria, British Columbia	1567	6174041
 Bahía Blanca, Argentina	1565	3865086
 Des Moines, IA	1565	4853828
-Stockholm, Sverige	1564	
+Stockholm, Sverige	1564	2673722
 Norwich, England	1557	2641181
 Culiacán, Sinaloa	1556	4012176
 Porto Alegre	1554	3452925
 Vermont, USA	1552	5242283
-Warszawa, Polska	1552	
+Warszawa, Polska	1552	756135
 chile	1551	3895114
 Neverland	1549	
 Greater Accra, Ghana	1544	2300569
@@ -772,7 +772,7 @@ Karachi	1523	1174872
 Vancouver, Canada	1521	6173331
 Jammu, Jammu And Kashmir	1518	1269321
 Rhode Island, USA	1515	5224323
-Suisse	1515	
+Suisse	1515	2658434
 🌎	1514	
 New South Wales, Australia	1513	2155400
 East, England	1512	6269131
@@ -812,7 +812,7 @@ Noida	1454	7279746
 Riverside, CA	1454	5387877
 Murcia	1452	2513413
 Cardiff	1449	2653822
-Genève, Suisse	1447	
+Genève, Suisse	1447	2660646
 San Juan, Puerto Rico	1445	4568138
 Oslo, Norway	1443	3143242
 Taiwan	1443	1668284
@@ -825,7 +825,7 @@ Huntsville, AL	1434	4068590
 Brasília	1434	3469058
 Rosario	1433	3838583
 Rajasthan, India	1432	1258899
-Jalisco, México	1431	3523272
+Jalisco, México	1431	4004156
 Missouri	1430	4398678
 Lahore	1426	1172451
 Tempe, AZ	1423	5317058
@@ -845,7 +845,7 @@ Monterrey	1400	3995465
 Melbourne, Victoria, Australia	1398	2158177
 Pretoria	1392	964137
 Entre Ríos, Argentina	1392	3865483
-Nuevo León, México	1390	3523272
+Nuevo León, México	1390	3522542
 Toulouse	1388	2972315
 🌎🌍🌏	1385	
 Alaska, USA	1385	5879092
@@ -853,21 +853,21 @@ Alaska, USA	1385	5879092
 Bandung, Indonesia	1384	1650357
 Alabama	1383	4829764
 China	1381	1814991
-Schweiz	1379	
+Schweiz	1379	2658434
 St Paul, MN	1377	5037779
 mumbai	1375	1275339
 Ethiopia	1374	337996
 Cali	1370	3687925
-People's Republic of China	1370	
+People's Republic of China	1370	1814991
 Austria	1369	2782113
-मुंबई, भारत	1365	
+मुंबई, भारत	1365	1275339
 Kumasi, Ghana	1362	2298890
 Malta	1361	2562770
 Gurgaon	1359	1270642
 Nottingham	1356	2641170
 he/him	1355	
 Las Vegas, Nevada	1355	5506956
-Chihuahua, México	1350	3523272
+Chihuahua, México	1350	4014336
 PA	1347	6254927
 Bretagne, France	1346	3017382
 Jersey City, NJ	1345	5099836
@@ -897,7 +897,7 @@ PNW	1301
 Asturias	1300	3114710
 Hamburg, Germany	1299	2911297
 New Hampshire	1298	5090174
-Sverige	1293	
+Sverige	1293	2661886
 Ontario	1291	6093943
 Haryana, India	1291	1270260
 mexico	1291	3996063
@@ -910,7 +910,7 @@ Valladolid, España	1281	3106672
 Universe	1278	
 Nantes	1272	2990969
 usa	1272	6252001
-Sonora, México	1268	3523272
+Sonora, México	1268	3982846
 Riyadh	1266	108410
 Seattle, Washington	1266	5809844
 Yemen	1265	69543
@@ -919,11 +919,11 @@ Torino	1260	3165524
 Phoenix, Arizona	1258	5308655
 MEXICO	1254	3996063
 Asheville, NC	1252	4453066
-Österreich	1250	
+Österreich	1250	2782113
 Wichita, KS	1247	4281730
 Henderson, NV	1243	5505411
 Kuching, Sarawak	1243	1735634
-México 	1243	3523272
+México 	1243	3996063
 WorldWide	1242	
 Philly	1242	4560349
 Oxford	1241	2640729
@@ -945,14 +945,14 @@ Quilmes, Argentina	1215	3429652
 Kent	1215	5799625
 Tampa, Florida	1214	98
 Bristol, UK	1213	2654675
-Oaxaca, México	1213	3523272
+Oaxaca, México	1213	3522509
 Eugene, OR	1210	5725846
 TEXAS	1205	4736286
-Belgrade, Republic of Serbia	1205	
+Belgrade, Republic of Serbia	1205	792680
 FL	1204	4155751
 Lagos,Nigeria	1202	2332453
 São Paulo, Brazil	1202	3448433
-België	1199	
+België	1199	2802361
 District of Columbia, USA	1199	4140963
 Buenos Aires - Argentina	1198	
 Anchorage, AK	1197	5879400
@@ -960,7 +960,7 @@ Córdoba, España	1195	2519240
 West Coast	1195	6612113
 Worldwide, mainly in GER	1194	
 Silver Spring, MD	1193	4369596
-Algérie	1193	
+Algérie	1193	2589581
 Québec	1191	6325494
 Wellington City, New Zealand	1190	2186224
 new york	1189	5128638
@@ -972,7 +972,7 @@ hell	1183
 Puebla	1183	3521082
 Morgantown, WV	1182	4815352
 Victoria, BC	1181	6174041
-Quintana Roo, México	1180	3523272
+Quintana Roo, México	1180	3520887
 Edmonton	1178	5946768
 Bogotá, DC, Colombia	1176	3686110
 Quezon City, Philippines	1175	1692192
@@ -997,8 +997,8 @@ East Java, Indonesia	1148	1642668
 Orlando, Florida	1146	98
 Athens, GA	1145	4180386
 Cambridge, UK	1144	2653941
-Россия	1142	
-Kuala Lumpur Federal Territory	1142	
+Россия	1142	2017370
+Kuala Lumpur Federal Territory	1142	1733046
 República Catalana	1140	
 West Hollywood, CA	1137	5408076
 Bursa, Türkiye	1135	750268
@@ -1006,8 +1006,8 @@ Qatar	1131	289688
 Medellín	1131	3674962
 São Paulo - Brasil	1127	
 Bahrain	1127	290291
-🇨🇦	1127	
-Tabasco, México	1127	3523272
+🇨🇦	1127	6251999
+Tabasco, México	1127	3516458
 Recife	1127	3390760
 Barquisimeto, Venezuela	1125	3648522
 Santa Cruz de Tenerife, España	1124	2511174
@@ -1023,7 +1023,7 @@ madrid	1116	3117732
 World Wide Web	1115	
 Bakersfield, CA	1115	5325738
 Sydney Australia	1113	
-Sinaloa, México	1113	3523272
+Sinaloa, México	1113	3983035
 Rennes	1112	2983990
 http://www.zyite.com/	1111	
 La Plata	1109	3432043
@@ -1031,7 +1031,7 @@ Canberra, Australia	1108	2172517
 Guayaquil - Ecuador	1108	
 Quito - Ecuador	1107	
 Wonderland	1106	
-Islamic Republic of Iran	1104	
+Islamic Republic of Iran	1104	130758
 Mesa, AZ	1102	5304391
 Silicon Valley, CA	1101	5332921
 Girona	1100	3121456
@@ -1050,9 +1050,9 @@ Croton-on-Hudson, NY	1089	5114221
 Madrid (España)	1089	
 Olympia, WA	1086	5805687
 Newport Beach, CA	1084	5332921
-Brussel, België	1083	
+Brussel, België	1083	2800866
 Hollywood, CA	1081	5357527
-Barcelona, Espanya	1081	
+Barcelona, Espanya	1081	3128760
 Huntington Beach, CA	1079	5358705
 los angeles	1078	5368361
 Moscow	1077	524894
@@ -1061,9 +1061,9 @@ Palm Springs, CA	1077	5380668
 New York 	1077	5128638
 Lansing, MI	1076	4998830
 Veracruz	1074	3514780
-Aguascalientes, México	1073	3523272
+Aguascalientes, México	1073	4019231
 Jakarta Pusat, DKI Jakarta	1073	1642911
-México, DF	1070	
+México, DF	1070	3527646
 Santiago del Estero, Argentina	1069	3835868
 GHANA	1069	2300660
 Paris 	1068	2988507
@@ -1087,7 +1087,7 @@ Firenze, Toscana	1048
 Rhode Island	1047	5224323
 The Internet	1047	
 Dakar	1046	2253350
-Prague, Czech Republic	1044	
+Prague, Czech Republic	1044	3067696
 Lille	1043	2998324
  USA	1041	6252001
 Misiones, Argentina	1040	3430657
@@ -1119,10 +1119,10 @@ València	1016	2509954
 Augusta, GA	1016	4180531
 Montreal, Canada	1015	6077243
 Nueva York, USA	1014	5128581
-Zürich, Schweiz	1013	
+Zürich, Schweiz	1013	2657896
 Lost in the Minnesota North Woods	1013	
 Anaheim, CA	1010	5323810
-Tamaulipas, México	1009	3523272
+Tamaulipas, México	1009	3516391
 Islas Canarias	1006	
 Parts Unknown	1005	
 France 	1005	3017382
@@ -1150,7 +1150,7 @@ here	985
 Toluca, México	985	3515302
 Srinagar	983	1255634
 Santa Fé, Argentina	981	3865483
-🇺🇸	981	
+🇺🇸	981	6252001
 U.S.	980	6252001
 Myrtle Beach, SC	978	4588718
 Andorra	977	3041565
@@ -1163,7 +1163,7 @@ Nova Scotia, Canada	973	97
 La Paz, Bolivia	972	3911924
 Bahia, Brasil	970	3471168
 Oaxaca de Juárez, Oaxaca	969	3522507
-Tunisie	969	
+Tunisie	969	2464461
 Winston-Salem, NC	969	4499612
 Beverly Hills, CA	966	5328041
 Lagos, Nigeria.	966	2332453
@@ -1211,12 +1211,12 @@ Rawalpindi, Pakistan	925	1166993
 Utrecht	925	2745909
 ATL	923	4180439
 Princeton, NJ	922	5102922
-Dubai, UAE	921	
+Dubai, UAE	921	292224
 Long Island, New York	919	5125125
 Ilorin, Nigeria	919	2337639
 Posadas, Argentina	918	3429886
 Ciudad de Mexico	917	3530597
-Zacatecas, México	916	3523272
+Zacatecas, México	916	3979840
 Milton Keynes, England	916	2642465
 Enugu, Nigeria	915	2565344
 Providencia, Chile	914	3875139
@@ -1273,17 +1273,17 @@ National Capital Region, Repub	867
 SC	866	4597040
 Libya	865	2215636
 Imus, Calabarzon	864	1710914
-Guanajuato, México	862	3523272
+Guanajuato, México	862	4005267
 some place	861	
 Chubut, Argentina	861	3861244
 Saket, New Delhi	860	1273294
 +62	860	99
-Durango, México	859	3523272
+Durango, México	859	4011741
 Gotham City	859	
-Украина	857	
+Украина	857	690791
 Mongolia	857	2029969
 Martinique	857	3570311
-Querétaro Arteaga, México	857	3523272
+Querétaro Arteaga, México	857	3996063
 Schorndorf / Germany	855	
 北京, 中华人民共和国	855	
 Lafayette, LA	854	4330145
@@ -1348,12 +1348,12 @@ Nevada	811	5509151
 Texas 	809	4736286
 Semarang, Jawa Tengah	808	
 Bexhill, England	807	2655777
-The Hague, The Netherlands	805	
+The Hague, The Netherlands	805	2747373
 Melbourne Australia	805	
 Coyoacán, Distrito Federal	804	3640847
 Munich, Bavaria	804	2867714
 Australia 	803	2077456
-Riyadh, Kingdom of Saudi Arabia	803	
+Riyadh, Kingdom of Saudi Arabia	803	2287781
 Tema, Ghana	802	2294700
 home	801	5797582
 nowhere	799	
@@ -1370,7 +1370,7 @@ Mississippi	796	4436296
 Kanpur, India	796	1267995
 Coimbatore, India	795	1273865
 Kansas City, Missouri	795	4393217
-Monterrey, México	794	3523272
+Monterrey, México	794	3995465
 York, PA	794	6254927
 Nationwide	794	
 Bath, England	794	2656173
@@ -1390,7 +1390,7 @@ Norwich	789	2641181
 italy	788	3175395
 Oklahoma City	786	4544349
 Modesto, CA	786	5373900
-🇮🇳	785	
+🇮🇳	785	1269750
 Angers, France	785	3037656
 VA	784	6254928
 Naples, FL	784	4155751
@@ -1412,7 +1412,7 @@ América Latina	776
 Ottawa, ON	776	6094817
 CHILE	774	3895114
 Tampico, Tamaulipas	774	3516355
-Chiapas, México	772	3523272
+Chiapas, México	772	3531011
 Santa Clara, CA	771	5393015
 A Coruña	770	3119841
 Paradise	769	5509952
@@ -1460,7 +1460,7 @@ Calgary, AB	746	5913490
 Vigo, España	746	3105976
 Orléans, France	745	2989317
 U.S.A	744	6252001
-Saltillo, Coahuila, México.	744	
+Saltillo, Coahuila, México.	744	3988086
 Portland, Maine	744	4975802
 Rio de Janeiro - Brasil	744	
 Konoha	743	
@@ -1530,9 +1530,9 @@ Fayetteville, NC	709	4466033
 Girona, Catalunya	708	
 Galiza	708	
 malaysia	707	1733045
-Czech Republic	707	
+Czech Republic	707	3077311
 Midrand, South Africa	707	1105776
-Tlaxcala, México	707	3523272
+Tlaxcala, México	707	3515359
 State College, PA	705	5213681
 Sabadell	704	3111199
 Alsace, France	704	3017382
@@ -1579,7 +1579,7 @@ delhi	683	1273293
 Saskatchewan, Canada	683	97
 Cheshire	682	5283837
 Redmond, WA	680	5808079
-UAE	680	
+UAE	680	290557
 Ranchi, India	679	1258526
 Atlanta, Ga	679	4180439
 Denton, TX	679	4685907
@@ -1627,7 +1627,7 @@ Addis Ababa, Ethiopia	661	444178
 République du Bénin	660	
 Comodoro Rivadavia, Argentina	659	3860443
 Groningen, Nederland	657	5432410
-Lima, Perú.	657	
+Lima, Perú.	657	3936451
 Petaling Jaya, Selangor	657	1735158
 Mendoza	656	3844419
 Cary, NC	656	4459467
@@ -1731,7 +1731,7 @@ australia	613	2077456
 Nebraska	612	5073708
 Huddersfield, England	612	2646458
 Pale Blue Dot	611	
-🇲🇽	611	
+🇲🇽	611	3996063
 Dudas Preguntas Sugerencias:DM	611	
 Lagos, Nigeria 	611	2332453
 Santander	610	3668578
@@ -1747,7 +1747,7 @@ United Kingdom 🇬🇧	606	2635167
 Guelph, Ontario	605	5967629
 Nashville, Tennessee	605	4644585
 ph	605	
-दिल्ली, भारत	605	
+दिल्ली, भारत	605	1273294
 Sudan	604	366755
 Dayton, Ohio	604	4509884
 Austin area, TX	604	4736286
@@ -1791,7 +1791,7 @@ Manhattan	588	5128581
 Gibraltar	588	2411586
 Belgrano	587	3436077
 Salt Lake City	587	5780993
-Republic of Korea	586	
+Republic of Korea	586	1835841
 Salinas, California	585	5391295
 Palm Beach, FL	585	4167505
 The Woodlands, TX	584	4736476
@@ -1896,13 +1896,13 @@ East London	550	1006984
 Bermuda	550	3573345
 Irving, TX	550	4700168
 Clermont-Ferrand, France	550	3024635
-Campeche, México	549	3523272
+Campeche, México	549	3531730
 Barcelona, Catalonia	549	3128760
 Fortaleza	549	3399415
 Tangerang, Indonesia	549	1625084
 Jakarta Timur, DKI Jakarta	548	1642911
 WA	548	5815135
-Guadalajara, México	548	3523272
+Guadalajara, México	548	4005539
 Santa Fe	547	3836276
 Santa Cruz, Bolivia	547	3904907
 TN	547	4662168
@@ -1936,7 +1936,7 @@ buenos aires	539	3435907
 El Paso, Texas	538	5520993
 ...	538	
 Ciudad de México.	537	3530597
-ภูเก็ต, ประเทศไทย	537	
+ภูเก็ต, ประเทศไทย	537	1151254
 Federal Capital Territory	536	
 Shah Alam	536	1732903
 Democratic Republic of Congo	536	
@@ -1956,8 +1956,8 @@ internet	533
 Valhalla	532	5142090
 Bulawayo, Zimbabwe	532	1105843
 Grenoble	532	3014728
-Санкт-Петербург, Россия	531	
-Villahermosa, Tabasco, México	531	
+Санкт-Петербург, Россия	531	498817
+Villahermosa, Tabasco, México	531	3514670
 Midwest 	531	
 Minneapolis, Minnesota	531	5037649
 Edmonton, AB	530	5946768
@@ -1967,7 +1967,7 @@ Greater Noida, India	528	1269750
 Etats-Unis	528	
 Sunshine Coast, Queensland	527	10630449
 Distrito Federal	527	3640847
-Colima, México	527	3523272
+Colima, México	527	4013513
 The South	527	
 Joinville, Brasil	526	3459712
 Frankfurt on the Main, Germany	526	2921044
@@ -1982,10 +1982,10 @@ Curitiba, Brazil	523	3464975
 Aberdeen	523	2657832
 Albania	523	783754
 Carabobo, Venezuela	522	3646751
-Querétaro, México	522	3523272
+Querétaro, México	522	3520914
 Grand Rapids, Michigan	522	4994358
 Reynosa, Tamaulipas	521	3520339
-Utrecht, The Netherlands	521	
+Utrecht, The Netherlands	521	2745909
 JAPAN	521	1861060
 Barquisimeto-Venezuela	520	
 Goiânia	519	3462377
@@ -2012,7 +2012,7 @@ Eskişehir, Türkiye	513	315201
 Pelotas, Brasil	512	3454244
 Muncie, IN	511	4924006
 León	511	3618029
-Yucatán, México	511	3523272
+Yucatán, México	511	3514211
 Bucaramanga	510	3688465
 Guayas, Ecuador	510	3657505
 Sunderland, England	509	2636531
@@ -2033,7 +2033,7 @@ Derbyshire	504
 Middle East	504	
 Venus	503	5466336
 Juiz de Fora, Brasil	503	3459505
-Rotterdam, The Netherlands	502	
+Rotterdam, The Netherlands	502	2747891
 Ikeja, Nigeria	502	2338313
 RVA	501	1065158
 Sheffield, UK	501	2638077
@@ -2074,7 +2074,7 @@ PDX	493	5746545
 Earth, PNW	493	
 Beaumont, TX	492	4672989
 Santa Clarita, CA	492	5393049
-🇬🇧	492	
+🇬🇧	492	2635167
 Tampa	491	4174757
 Venezia, Veneto	491	3164603
 Kuala Terengganu, Terengganu	491	1734705
@@ -2088,7 +2088,7 @@ West Sussex	490
 NRW	490	
 🇲🇾	490	
 UK, USA, Jamaica and Nigeria	490	
-Antwerpen, België	490	
+Antwerpen, België	490	2803138
 Murfreesboro, Tennessee	490	4644312
 NorCal	489	
 Myanmar	489	1327865
@@ -2127,7 +2127,7 @@ Abu Dhabi, United Arab Emirates	482	292969
 Monterey, CA	482	5374361
 San Cristóbal, Venezuela	482	3628473
 Littoral, Cameroon	481	2229336
-Veracruz, México	481	3523272
+Veracruz, México	481	3514780
 New Providence, NJ	481	5101775
 Preston, England	481	2639912
 San Juan, PR	480	
@@ -2187,7 +2187,7 @@ Essonne, Ile-de-France	469	3012874
 Elche, España	469	2518559
 iPhone: 0.000000,0.000000	469	
 Calabar, Nigeria	468	2346229
-🇳🇬	468	
+🇳🇬	468	2328926
 Pflugerville, TX	467	4736286
 Gran Canaria	467	
 World 	467	
@@ -2245,7 +2245,7 @@ Clarksville, TN	455	4613868
 Capital Federal	455	
 Notizie da tutti i Quotidiani 	455	
 Menlo Park, CA	454	5372223
-Abu Dhabi, UAE	454	
+Abu Dhabi, UAE	454	292969
 RT's Are FYI Purposes Only	453	
 Indore	453	1269743
 McKinney, TX	453	4710178
@@ -2258,7 +2258,7 @@ ATX	452	1526038
 Tel Aviv	451	293396
 Haarlem	451	2755003
 Catania	451	2525068
-Catalunya, Espanya	450	
+Catalunya, Espanya	450	2510769
 bogota	450	3688689
 Windhoek, Namibia	450	3355338
 Bend, OR	450	5713587
@@ -2270,11 +2270,11 @@ Lekki, Nigeria	448	2332121
 Calgary, Canada	447	5913490
 Republic of Croatia	447	
 Shropshire	446	
-Baja California, México	446	3523272
+Baja California, México	446	4017700
 Flagstaff, AZ	445	5294810
 Dover, DE	445	4142290
 Bay Area, California	445	5332921
-México.	445	3523272
+México.	445	3996063
 Lima Perú	444	
 Vitoria-Gasteiz	444	3104499
 Corvallis, OR	444	5720727
@@ -2282,7 +2282,7 @@ Gaborone, Botswana	444	11778169
 Himachal Pradesh, India	444	1270101
 BCN	444	3128760
 Ulaanbaatar, Mongolia	444	2028461
-Bern, Schweiz	444	
+Bern, Schweiz	444	2661551
 She/her	443	
 Ontario Canada	443	
 South Australia, Australia	443	2061327
@@ -2305,7 +2305,7 @@ Fullerton, CA	439	5351247
 New York City, USA	438	5128581
 Abuja Nigeria	438	
 Citizen of the World	438	
-Mérida, Yucatán, México	438	
+Mérida, Yucatán, México	438	3523349
 Vicente López, Argentina	438	3865483
 Zieglerville PA	438	
 Soweto, South Africa	438	953781
@@ -2407,7 +2407,7 @@ México City	420
 Alpharetta, GA	420	4179574
 Barrie, Ontario	420	5894171
 Warrington, England	420	2634739
-MÉXICO	420	3523272
+MÉXICO	420	3996063
 Chiang Mai, Thailand	420	1153670
 Tehran, Iran	419	110791
 Hull	419	2645425
@@ -2458,7 +2458,7 @@ Outer Space	412
 Bangalore 	412	1277333
 NOLA	412	4335045
 Brasil 	412	3469034
-गुजरात, भारत	412	
+गुजरात, भारत	412	1269750
 Barranquilla, Atlántico	412	3689147
 Vishakhapatnam, India	411	1253102
 Sao Paulo, Brasil	411	3448433
@@ -2475,7 +2475,7 @@ Punta Arenas, Chile	410	3874787
 Toronto Canada	410	
 Newport News, VA	410	4776024
 Hannover, Deutschland	410	2910831
-Kraków, Polska	409	
+Kraków, Polska	409	3094802
 DF	409	
 Konya, Türkiye	409	306569
 Montreal, QC	409	6077243
@@ -2604,7 +2604,7 @@ Pacific NW	387
 595, Budhwar Peth, Pune	387	
 Extremadura	387	2593112
 Panamá 	387	3703433
-Lausanne, Suisse	386	
+Lausanne, Suisse	386	2659994
 Cebu City	386	1717512
 New Jersey 	386	5101760
 El mundo	386	
@@ -2704,8 +2704,8 @@ heaven	373
 Michoacán	373	3995955
 Sao Paulo	373	3448433
 Nova Scotia	373	6091530
-Republic of Serbia	372	
-Guadalajara, Jalisco, México	372	
+Republic of Serbia	372	6290252
+Guadalajara, Jalisco, México	372	4005539
 Lugo, España	372	3117814
 País Vasco, España	371	2510769
 Johnson City, TN	371	4633419
@@ -2720,7 +2720,7 @@ Peronia	370
 singapore	370	1880251
 Kazakhstan	370	1522867
 Reading	370	2639577
-Liège, Belgique	370	
+Liège, Belgique	370	2792413
 SF	369	5391959
 NEW YORK	369	5128638
 Tampa Bay	369	
@@ -2827,7 +2827,7 @@ Anchorage, Alaska	355	5879400
 The America's.	354	
 Newport, Wales	354	2641598
 Thessaloniki, Greece	354	734077
-🇦🇷	354	
+🇦🇷	354	3865483
 Occitanie	354	11071623
 ABS-CBN, Diliman, Quezon City	354	
 Owerri, Nigeria	354	2325330
@@ -2883,7 +2883,7 @@ Jaén, España	347	2516395
 Dünya	347	
 Gallifrey	347	
 Zuid-Holland, Nederland	347	5432410
-Hidalgo, México	347	3523272
+Hidalgo, México	347	3527115
 Metro Manila	347	7521311
 Orem, Utah	347	5779334
 Saint Paul, MN	347	5045360
@@ -2897,10 +2897,10 @@ Westchester County, NY	345	5128638
 Manila City, National Capital Region	345	
 Trabzon, Türkiye	344	738647
 Saint-Denis, La Réunion	344	3015267
-कोलकाता, भारत	344	
+कोलकाता, भारत	344	1275004
 Derby	344	2651347
 ProgressiveLand	344	
-Morelos, México	344	3529612
+Morelos, México	344	3522961
 North East England	344	
 Albacete	344	2522258
 International 	344	
@@ -3082,7 +3082,7 @@ Veracruz de Ignacio de la Llav	321
 الرياض, المملكة العربية السعود	321	
 Madrid - España	321	
 Billings, MT	321	5640350
-Michoacán de Ocampo, México	321	3523272
+Michoacán de Ocampo, México	321	4011511
 Vero Beach, FL	321	4155751
 İSTANBUL	321	745044
 Trinidad & Tobago	321	
@@ -3133,8 +3133,8 @@ Seville, Spain	317	2510911
 pakistan	317	1168579
 dublin	317	2964574
 Kwara, Nigeria	317	2332785
-Dubai , UAE	317	
-लखनऊ, भारत	316	
+Dubai , UAE	317	292224
+लखनऊ, भारत	316	1264733
 Key West, FL	316	4160812
 Trivandrum	316	1254163
 Reus, República de Catalunya	316	
@@ -3262,7 +3262,7 @@ manila	302	1701668
 Brasília - Brasil	302	
 Encinitas, CA	302	5346646
 Dallas/Fort Worth	302	
-उत्तर प्रदेश, भारत	301	
+उत्तर प्रदेश, भारत	301	1269750
 AUSTRALIA	301	2077456
 Christchurch, New Zealand	301	2192362
 Cancun	301	3531673
@@ -3272,7 +3272,7 @@ Antipolo City, Calabarzon	301	1730501
 Namek	301	
 Fortaleza, Ceará	301	3399415
 Northumberland	301	5090464
-बैंगलुरु, भारत	301	
+बैंगलुरु, भारत	301	1269750
 lucknow	301	1264733
 Westminster, London	301	2643743
 Blackpool, England	301	2655459
@@ -3290,7 +3290,7 @@ North Las Vegas, NV	300	5509403
 Rabat - Salé - Zemmour - Zaër	300	
 Nagpur	300	1262180
 Anchoring Social Media Network News ~ world news ~ good news ~ advance news for tomorrow.	300	
-Jeddah, Kingdom of Saudi Arabia	300	
+Jeddah, Kingdom of Saudi Arabia	300	2287781
 pune	300	1259229
 Melbourne, Australia 	300	2158177
 Manta, Ecuador	299	3654410
@@ -3309,7 +3309,7 @@ Portharcourt	298
 Yuma, AZ	298	5322053
 Coquimbo, Chile	298	3893629
 brooklyn	298	5110302
-Gent, België	298	
+Gent, België	298	2797656
 Beşiktaş, İstanbul	298	745044
 Puerto Vallarta, Jalisco	298	3991328
 Rio Branco, Brasil	298	3662574
@@ -3356,7 +3356,7 @@ moon	294	590637
 Pasig City, Philippines	294	1694008
 South Australia	294	2061327
 izmir	294	311044
-भारत 	294	
+भारत 	294	1269750
 Hampton, VA	294	4762894
 Dakar, Senegal	293	2253350
 埼玉県	293	
@@ -3378,7 +3378,7 @@ Colonia, Uruguay	292	3443025
 Hurlingham, Argentina	292	3433522
 Bogotá-Colombia	292	
 Gaborone	292	11778169
-🇿🇦	291	
+🇿🇦	291	953987
 Callao, Peru	291	3946080
 He/Him	291	
 North East	291	12105071
@@ -3478,7 +3478,7 @@ Oslo, Norge	283
 Wandsworth, London	283	2643743
 Lahore Pakistan	283	
 Berne, Switzerland	283	2661552
-Göteborg, Sverige	283	
+Göteborg, Sverige	283	2711537
 austin, texas	283	4671654
 Accra,Ghana	283	2306104
 奈良県奈良市	282	
@@ -3497,7 +3497,7 @@ Wicklow, Ireland	281	2960936
 Somewhere, USA	281	6252001
 Ypsilanti, MI	281	5015688
 Earth. Presently.  	281	
-Ciudad de México, México	281	3523272
+Ciudad de México, México	281	3530597
 Campania, Italia	281	3181042
 Santa Rosa, Argentina	281	3835994
 lima	281	3936451
@@ -3870,7 +3870,7 @@ Cipolletti, Argentina	250	3861056
 République Démocratique Du Congo	250	
 Zúrich, Suiza🇨🇭	250	3623112
 Marbella	250	2514169
-🇧🇷	250	
+🇧🇷	250	3469034
 Saint Louis, Missouri	250	4407066
 Saint-Denis, France	250	2980916
 Hamilton	250	3573195
@@ -3918,7 +3918,7 @@ Fife, Scotland	248	2638360
 Rivera, Uruguay	248	3440780
 Everywhere!	248	
 Kent, OH	248	5159537
-🇫🇷	248	
+🇫🇷	248	3017382
 East Bay, CA	248	5332921
 Bolton	247	2655237
 Ambato, Ecuador	247	3660689
@@ -3991,7 +3991,7 @@ Fairfield, CT	243	4834157
 Boston,Mass	243	
 New York, NY, USA	243	5128581
 NYC↔#LongIsland-Atlantic~~	243	
-Guerrero, México	243	3523272
+Guerrero, México	243	3527213
 La Reina, Chile	243	3895114
 Philadelphia PA	243	
 Curitiba, Paraná	243	3464975
@@ -4004,7 +4004,7 @@ Anápolis, Brasil	242	3472287
 Singapore and the World	242	
 Warrington	242	2634739
 Haute-Garonne, Midi-Pyrénées	242	
-the Netherlands	242	
+the Netherlands	242	2750405
 Hillsboro, OR	242	5731371
 Diyarbakır, Türkiye	242	316540
 Davao City, Philippines	242	1715348
@@ -4023,7 +4023,7 @@ Johor Bahru	241	1732752
 Sint Pancras, Langedijk	241	
 Louisville, Ky	241	4299276
 Trieste	241	3165185
-Coahuila de Zaragoza, México	241	3523272
+Coahuila de Zaragoza, México	241	3996063
 Lubbock, Texas	240	5525577
 Weston, FL	240	4178003
 San Dimas, CA	240	5391891
@@ -4114,7 +4114,7 @@ Elsewhere	235
 Osorno, Chile	235	3877949
 Latvija	235	
 Metepec, México	235	3523303
-CDMX, México	235	3523272
+CDMX, México	235	3996063
 Jammu	235	1269321
 space	235	
 The Milky Way	235	
@@ -4134,7 +4134,7 @@ Rio Negro, Uruguay	234	3440789
 Lakewood, CO	233	5427946
 Central Florida, USA	233	6252001
 Northern Hemisphere	233	
-República Dominicana 	233	
+República Dominicana 	233	3508796
 Slovakia	233	3057568
 Sopore, Jammu And Kashmir	233	1255714
 Neuilly-sur-Seine, France	233	2990611
@@ -4199,7 +4199,7 @@ boston	230	4930956
 Tampa Florida	230	
 Los Gatos, CA	230	5368518
 Derry, Northern Ireland	230	2643736
-Poznań, Polska	230	
+Poznań, Polska	230	3088171
 Oxfordshire, UK	230	2635167
 IGNORANCE IS A CHOICE	230	
 Bandra West, Mumbai	230	1275339
@@ -4285,7 +4285,7 @@ Hérault, Languedoc-Roussillon	224
 Gold Coast, Australia	224	2165087
 Chelmsford, Essex	224	4935946
 Cascais, Portugal	224	2269594
-महाराष्ट्र, भारत	224	
+महाराष्ट्र, भारत	224	1269750
 Potsdam	224	2852458
 Mont-Tremblant, Québec	224	6325494
 Celaya, Guanajuato	224	4014875
@@ -4359,7 +4359,7 @@ Saskatchewan	220	6141242
 Manresa	220	3117533
 Preston	220	2639912
 Bremen	220	2944387
-गुवाहाटी, भारत	220	
+गुवाहाटी, भारत	220	1271476
 Singapore 	220	1880251
 Bexley, London	220	2643743
 Parker, CO	220	5434006
@@ -4400,8 +4400,8 @@ Hagerstown, MD	218	4357141
 Pontevedra, España	218	3113209
 Birmingham 	218	2655603
 Charlotte, North Carolina	218	4460243
-México 🇲🇽	218	3523272
-PERÚ	218	
+México 🇲🇽	218	3996063
+PERÚ	218	3932488
 Florence, Tuscany	218	3176959
 Delta, Nigeria	218	2565341
 Delft, Nederland	218	5432410
@@ -4415,7 +4415,7 @@ Grosseto	217	3175786
 Western Massachusetts	217	
 Utica, NY	217	5142056
 Mérida	217	3632306
-Malmö, Sverige	217	
+Malmö, Sverige	217	2692969
 na merda	217	
 Amiens	217	3037854
 Nashville TN	217	
@@ -4483,7 +4483,7 @@ Here, there and everywhere	213
 Lakeland, GA	213	4204775
 Newcastle upon Tyne, UK	213	2641673
 Helena, MT	213	5656882
-Comunidad de Madrid	213	
+Madrid	213	3117732
 Lleida, Catalunya	213	
 Aveiro, Portugal	213	2742610
 North Vancouver	213	
@@ -4518,7 +4518,7 @@ The Lone Star State	212
 St. Louis, Mo.	212	4407066
 North Florida	212	
 Cosmos	211	
-Santiago, República Dominicana	211	
+Santiago, República Dominicana	211	3492918
 Menifee, CA	211	5332921
 Abuja, Nigeria 	211	2352778
 Rio	211	3451190
@@ -4627,7 +4627,7 @@ Piracicaba, Brasil	206	3453643
 Bandar Kuala Lumpur, Wilayah P	206	
 REGIONE PUGLIA 🏙️🌃🌉🌌🏭🗼🌁	206	
 Las Palmas de Gran Canaria, España	205	2515270
-🇪🇸	205	
+🇪🇸	205	2510769
 E	205	
 Kota Semarang, Jawa Tengah	205	
 Source 	205	
@@ -4644,19 +4644,19 @@ Central New York	205
 Bend, Oregon	205	5713587
 La Paz Bolivia	205	
 Padang	205	1633419
-Perú 	205	
+Perú 	205	3932488
 Anywhere, USA	205	6252001
 Pyrénées-Orientales et Aude	204	
-🇬🇭	204	
+🇬🇭	204	2300660
 SPAIN	204	2510769
-Toscana	204	
+Tuscany	204	3165361
 California USA	204	
 Fortaleza, Brazil	204	3399415
-🇭🇰	204	
+🇭🇰	204	1819730
 Guatemala City	204	3598132
 Saint John, New Brunswick	204	6138517
 Rusia	204	
-Monterrey, Nuevo León, México	204	
+Monterrey, Nuevo León, México	204	3995465
 El Puerto de Santa María	204	2518207
 URUGUAY	204	3439705
 Essen	204	2928810
@@ -4678,7 +4678,7 @@ St. Petersburg, Florida	203	98
 Yokohama, Japan	203	1848354
 Da Nang, Vietnam	203	1905468
 Barcelona, Catalunya.	203	
-राजस्थान, भारत	203	
+राजस्थान, भारत	203	1269750
 Córdoba, Andalucía	203	3689905
 Dhaka,Bangladesh	203	1337179
 Potomac, MD	203	4366001
@@ -4700,7 +4700,7 @@ Up North	202
 Paris, France/La Habana, Cuba/México/Roma, Italia	202	
 Watford	202	2634677
 Rochester NY	202	
-Basel, Schweiz	202	
+Basel, Schweiz	202	2661604
 La Rochelle	202	3006787
  Argentina	202	3865483
 Ourense, España	202	3114965
@@ -4710,7 +4710,7 @@ Popayán, Colombia	202	3686110
 Kota Manado, Sulawesi Utara	202	
 Valencia - Venezuela	202	
 D.F.	202	
-Tabasco, México.	201	3523272
+Tabasco, México.	201	3516458
 Limeira, Brasil	201	3458575
 São Mateus, Brasil	201	3448519
 Salford	201	2638671
@@ -4760,9 +4760,9 @@ Almeria	199	2521886
 Campana, Argentina	199	3435810
 KC	199	7533612
 Nomad	199	
-Monterrey, N.L., México	199	
+Monterrey, N.L., México	199	3996063
 Douala	199	2232593
-Uppsala, Sverige	199	
+Uppsala, Sverige	199	2666218
 Ciudad Real	199	2519402
 Tokushima in Japan	199	
 Central Coast, New South Wales	199	2155400
@@ -4814,7 +4814,7 @@ Reino Unido	197
 Minnesota 	197	5037779
 Mulhouse, France	197	2991214
 West Texas	196	
-Baja California Sur, México	196	3523272
+Baja California Sur, México	196	4017698
 Lasgidi	196	
 Southfield, MI	196	5010636
 Gandhinagar	196	1271715
@@ -4843,7 +4843,7 @@ Chez moi oklm	195
 Windsor	195	6182962
 Heidelberg, Deutschland	195	2907911
 Houston, TX 	195	4699066
-Beijing, People's Republic of China	195	
+Beijing, People's Republic of China	195	2038349
 Bucks County, PA	195	6254927
 Piauí, Brasil	195	3392213
 Scot	195	
@@ -4957,8 +4957,8 @@ Guaymas, Sonora	191	4005143
 Cape Town 	191	3369157
 Luton	191	2643339
 Rochester, New York	191	5134086
-🇨🇱	191	
-🇨🇴	191	
+🇨🇱	191	3895114
+🇨🇴	191	3686110
 Cincinnati Ohio	191	
 Conakry	191	2422464
 Avellino, Campania	191	3182650
@@ -4973,7 +4973,7 @@ Ushuaia	190	3833367
 New Orleans, La./Austin, Tx.	190	
 Iligan City, Northern Mindanao	190	1711084
 Bangalore,India	190	1277333
-🇺🇸 	190	
+🇺🇸 	190	6252001
 Walsall, England	190	2634853
 'Merica	190	
 Woodbridge, VA	190	4794457
@@ -4996,13 +4996,13 @@ Madrid-España	189
 Buffalo, N.Y.	189	5110629
 Curicó, Chile	189	3892870
 PARAGUAY	189	3437598
-Cancún, México	189	3523272
+Cancún, México	189	3531673
 Var	189	726050
 Ici	189	
 Lugo, Galicia, España	189	3117814
 Palmira, Colombia	189	3673164
 BRAZIL	189	3469034
-Puebla, Puebla, México	189	
+Puebla, Puebla, México	189	3521081
 Lleida, España	189	3118514
 Northern Michigan	189	
 kashmir	189	5789342
@@ -5019,7 +5019,7 @@ Houma, LA	189	4331987
 Philadelphia, Pa	189	4560349
 Hyderabad 	189	1269843
 Conway, AR	189	4106458
-Saltillo, Coahuila, México	188	
+Saltillo, Coahuila, México	188	3988086
 Sergipe, Brasil	188	3447799
 Lakewood, WA	188	5800420
 Arlington VA	188	
@@ -5137,7 +5137,7 @@ San Carlos de Bariloche, Argen	184
 Valencia, Carabobo	184	3625549
 Southern US	184	
 Port Orange, FL	184	4155751
-🇮🇩	184	
+🇮🇩	184	1643084
 Canary Islands, Spain	184	2593110
 Wheeling, WV	184	5280854
 san diego	184	5391811
@@ -5171,7 +5171,7 @@ Kota Palembang, Sumatera Selat	183
 Lewisville, TX	183	4706057
 Chernobyl	183	
 Harlem	183	2755003
-🇮🇷  Islamic Republic of Iran	183	
+🇮🇷  Islamic Republic of Iran	183	130758
 Kanpur	183	1267995
 Oud-Beijerland, Nederland	183	5432410
 Stafford, England	183	2637142
@@ -5214,7 +5214,7 @@ Gresik, Indonesia	181	1643776
 Land of Enchantment	181	
 Fuenlabrada, España	181	3121960
 Wiesbaden, Deutschland	181	2809346
-🇻🇪	181	
+🇻🇪	181	3625428
 Ludwigshafen am Rhein	181	2875376
 Greenwood, SC	181	4580569
 Earth, Milky Way	181	
@@ -5246,7 +5246,7 @@ Santa Marta	180	3668605
 Camarillo, CA	180	5333180
 Coronel Oviedo, Paraguay	180	3438819
 134340	180	
-Shanghai, People's Republic of China	180	
+Shanghai, People's Republic of China	180	1796231
 hialeah	180	4158476
 Washington DC 	180	4140963
 Easton, PA	180	5188140
@@ -5268,7 +5268,7 @@ Laguna Hills, CA	180	5332921
 Bedford	180	2656046
 ÜT: 45.246915,-76.163963	180	
 MARS	179	
-méxico	179	3523272
+méxico	179	3996063
 Turin	179	3165524
 Copiapó, Chile	179	3893656
 Canterbury	179	2192628
@@ -5284,7 +5284,7 @@ Zaragoza, Spain	179	3104324
 Sheffield 	179	2638077
 The Villages, FL	179	4175179
 La Jolla, San Diego	179	5391811
-बिहार, भारत	179	
+बिहार, भारत	179	1269750
 Various	179	
 Clarksburg, WV	179	4802316
 Pacific Northwest, USA	179	6252001
@@ -5352,7 +5352,7 @@ Bristol UK	177
 Western Canada	177	
 Herndon, VA	177	6254928
 Valladolid, Castilla y León	177	
-गुड़गांव, भारत	176	
+गुड़गांव, भारत	176	1269750
 kinshasa	176	2314300
 🇨🇦 Montréal, Québec 🇨🇦	176	6325494
 Sligo, Ireland	176	2961423
@@ -5390,7 +5390,7 @@ Jamaica 	175	3489940
 Belém, Pará	175	3405870
 YouTube	175	
 Richland, WA	175	5808276
-València, Espanya	175	
+València, Espanya	175	2509954
 Capital - Córdoba, Argentina	175	3865483
 Best Coast	175	
 Vancouver, B.C. Canada	175	
@@ -5422,7 +5422,7 @@ Srinagar Kashmir	174
  Wilderness of Mirrors	174	
 MIDWEST	174	
 Zacatecas	174	3979840
-Esneux, Belgique	174	
+Esneux, Belgique	174	2798636
 Yooperland	174	
 Toowoomba, Queensland	174	2146268
 Londonderry, Northern Ireland	174	2643736
@@ -5446,8 +5446,8 @@ AFRICA	174
 Somewhere Out There	174	
 Medellín / Bogotá	174	
 Gary, IN	173	4920607
-Lima, Perú 	173	
-🇯🇲	173	
+Lima, Perú 	173	3936451
+🇯🇲	173	3489940
 Pretoria 	173	964137
 Timmins, Ontario	173	6166739
 Gulbarga, India	173	1270752
@@ -5466,7 +5466,7 @@ L'Aquila, Italy	173	3175121
 zaragoza	173	3981609
 Nord - Pas-de-Calais	173	
 None of your business	173	
-Namur, Belgique	173	
+Namur, Belgique	173	2790471
 Perth Western Australia	172	
 Groveland, IL	172	4896861
 Hackney	172	
@@ -5631,7 +5631,7 @@ Canton, OH	167	5149222
 Mendoza, Argentina.	167	3844419
 Townsville	167	2146142
 Suffolk, UK	167	2635167
-🇦🇺	167	
+🇦🇺	167	2077456
 Kediri, Jawa Timur	167	
 France, as often as possible	167	
 Sioux City, Iowa	167	4862182
@@ -5705,7 +5705,7 @@ North Miami, FL	165	4155751
 Las Vegas NV	165	
 Gig Harbor, WA	165	5815135
 All around the world	165	
-Novi Sad, Republic of Serbia	164	
+Novi Sad, Republic of Serbia	164	3194360
 Ayr, Scotland	164	2656708
 Greenwood, IN	164	4258313
 Tampa, Fl	164	4174757
@@ -5735,7 +5735,7 @@ Roma, Lazio, Italia, Europa	164
 ATL, GA	164	4180439
 New York, New York 	164	5128581
 Astoria, NY	164	5107464
-Pachuca, Hidalgo, México	164	
+Pachuca, Hidalgo, México	164	3522210
 Granollers	163	3121145
 Blighty	163	
 Patria Grande	163	
@@ -5746,7 +5746,7 @@ El Bierzo	163
 Belgaum, India	163	1276533
 tinyurl.com/s4gvvck	163	
 Syracuse	163	5140405
-Wrocław, Polska	163	
+Wrocław, Polska	163	3081368
 🇨🇦🇺🇸	163	
 Mansfield, England	163	2643097
 Kota Makassar, Sulawesi Selata	163	
@@ -5768,14 +5768,14 @@ El Centro del Ciclón	163
 Madison	163	5261457
 Vista, CA	163	5406602
 Chicagoland, IL	163	4896861
-Cataluña	163	
+Catalonia	163	3336901
 Lawrence, Kansas	163	4274277
 Greater New York City Area	163	
 Lakewood, NJ	163	5100280
 Livorno	163	3174659
 الجزائر	163	2507480
 Novo Hamburgo, Brasil	163	3456068
-Mérida, México	163	3523272
+Mérida, México	163	3523349
 横浜市	162	1848354
 Kimberley, South Africa	162	990930
 South Louisiana	162	
@@ -5862,7 +5862,7 @@ California (o/18 :-)	160
 Guanajuato	160	4005267
 Trento, Trentino-Alto Adige	160	3165243
 Ascot, South East	160	
-Hermosillo, Sonora, México	160	
+Hermosillo, Sonora, México	160	4004898
 Minas Gerais, Brazil	160	3457153
 Brooklyn 	160	5110302
 La Vega, Dominican Republic	160	3499977
@@ -5948,7 +5948,7 @@ Southern Command	158
 EL ALTO, LA PAZ y BOLIVIA.	158	
 PROVIDENCE, RHODE ISLAND	158	5224151
 Sanford, FL	158	4172086
-Bayern	158	
+Bavaria	158	2951839
 PUERTO RICO	158	4566966
 Cave Creek, AZ	158	5288858
 Frankfurt am Main, Germany	158	2925533
@@ -5993,7 +5993,7 @@ Ajah	157
 Valinhos, Brasil	157	3469034
 Washington, DC Metro	157	
 Charleston, South Carolina	157	4574324
-जिंद, भारत	157	
+जिंद, भारत	157	1269750
 Algeciras	157	2522013
 Marquette, MI	157	5000947
 Here, There and Everywhere	157	
@@ -6068,7 +6068,7 @@ Greenville, South Carolina	154	4580543
 Johnstown, PA	154	5195561
 Brooklyn, USA	154	5110302
 Tyler, Texas	154	4738214
-Maastricht, The Netherlands	154	
+Maastricht, The Netherlands	154	2751283
 Inland Empire, CA	154	5332921
 716	154	3237716
 Mataró, España	154	3117164
@@ -6107,7 +6107,7 @@ Malaga, Andalucia, España	153	2510769
 Fort Smith, AR	153	4111410
 Chicago and Naples	153	
  UK	153	2635167
-नोएडा, भारत	153	
+नोएडा, भारत	153	7279746
 SE England	153	
 Victoria BC Canada	153	
 The Sunshine State	153	
@@ -6175,7 +6175,7 @@ East Ipswich, Brisbane	151	2174003
 Talavera de la Reina, España	151	2510693
 Cuenca-Ecuador	151	
 Durango	151	4011741
-Brno, Czech Republic	151	
+Brno, Czech Republic	151	3078610
 Wakanda 	151	
 In your mind	151	
 Passo Fundo, Brasil	151	3454857
@@ -6208,7 +6208,7 @@ Croatia	150	3202326
 Nigeria🇳🇬	150	2328926
 Veracruz, Veracruz de Ignacio de la Llave	150	
 Santiago, Chile 	150	3871336
-Busan, Republic of Korea	150	
+Busan, Republic of Korea	150	1838519
 Lille, Nord-Pas-de-Calais	150	
 Evreux, France	150	3019265
 Pekanbaru	150	1631761
@@ -6235,11 +6235,11 @@ Hannover, Germany	150	2910831
 Cleveland Heights, OH	150	5165418
 🌐USA	150	6252001
 Gloucester	150	2648404
-Puebla, México.	150	3523272
+Puebla, México.	150	3521082
 USA-France-Italy-Argentina	150	
 Poitou-Charentes, France	150	3017382
 Laniakea Supercluster	149	
-Monterrey, México.	149	3523272
+Monterrey, México.	149	3995465
 Tunisie / Turquie	149	
 Edomex	149	
 Arlington, MA	149	4929180
@@ -6304,7 +6304,7 @@ Space Coast, FL	148	4155751
 Long Island City, Queens	148	5133273
 Detroit Michigan	148	
 Sussex, England	147	6269131
-मध्य प्रदेश, भारत	147	
+मध्य प्रदेश, भारत	147	1269750
 Puerto La Cruz, Venezuela	147	3629672
 Boca del Río, Veracruz de Igna	147	
 Great White North	147	
@@ -6360,7 +6360,7 @@ The Midwest	146
 Moskva, Zubovski bulevar, 4.	146	
 Augsburg	146	2954172
 Akure	146	2350841
-🇰🇪	146	
+🇰🇪	146	192950
 Moncton, New Brunswick	146	6076211
 http://notrepays.cforum.info	146	
 #VeteransAgainstTrump 	146	
@@ -6382,7 +6382,7 @@ Muskegon, MI	146	5001836
 Montpelier, VT	146	5238685
 Amman, Hashemite Kingdom of Jo	146	
 Bay Area 	146	
-Culiacán, Sinaloa, México.	146	
+Culiacán, Sinaloa, México.	146	4012176
 Red State	146	
 Sunny Florida	146	
 Prince George's County, MD	146	4361885
@@ -6399,7 +6399,7 @@ PeepingMoon HQ, Mumbai	146	1275339
 +254	146	
 lahore	146	1172451
 Ferrara, Emilia Romagna	146	
-Amsterdam, the Netherlands	146	
+Amsterdam, the Netherlands	146	2759794
 Teramo, Abruzzo	145	3165803
 Basel	145	2661604
 Kingdom of The Netherlands	145	
@@ -6421,7 +6421,7 @@ Guntur, Andhrapradesh.India.	145
 Elizabethtown, PA	145	5188465
 Amherst, NY	145	5107129
 Lauro de Freitas, Brasil	145	3469034
-Graz, Österreich	145	
+Graz, Österreich	145	2778067
 Vancouver 	145	6173331
 Mobile Al Pensacola Fl	145	
 Ciudad Bolivar	145	3645532
@@ -6436,7 +6436,7 @@ Atlanta,GA	145	4180439
 The Capital, Kuwait	145	285570
 Maluku Utara, Indonesia	145	1643084
 Cleveland, TN	145	4662168
-Lund, Sverige	145	
+Lund, Sverige	145	2693678
 Essex/London	145	
 McLean, Virginia	145	4772354
 Johor Bahru, Malaysia	145	1732752
@@ -6541,9 +6541,9 @@ germany	142	2921044
 Manisa, Türkiye	142	304825
 Київ	142	703448
 NYC/NJ	142	
-🇨🇭	142	
+🇨🇭	142	2658434
 Palm Springs, California	142	5380668
-Suisse 🇨🇭	142	
+Suisse 🇨🇭	142	2658434
 Philadelphia area	142	
 Porlamar, Venezuela	142	3629965
 Leni Lenape lands and Taiwan	142	
@@ -6639,7 +6639,7 @@ North-west Frontier, Pakistan	140	1168579
 Catalunya, Europa	140	
 Paradise Valley, AZ	140	5551752
 Gulfport, MS	140	4428667
-Playa del Carmen, Quintana Roo, México	140	
+Playa del Carmen, Quintana Roo, México	140	3521342
 Salamanca, Guanajuato	140	3988214
 Cheltenham, UK	140	2653261
 Kelowna, BC	140	5990579
@@ -6699,10 +6699,10 @@ Seoul, Korea 	139
 Paris old EU	139	
 Lagos Nigeria...	139	
 NY NY	139	
-Czechowice-Dziedzice, Polska	139	
+Czechowice-Dziedzice, Polska	139	3101076
 Curitiba - PR	139	
 MIA	138	4164138
-Łódź, Polska	138	
+Łódź, Polska	138	3093133
 New Haven, Connecticut	138	4839366
 philadelphia	138	4560349
 019	138	4562779
@@ -6737,7 +6737,7 @@ Tlaquepaque, Jalisco	138	3981461
 USA🇺🇸 Tweets=Personal Views	138	
 Staffordshire, UK	138	2635167
 Guadalajara Jalisco	138	
-🇹🇷	138	
+🇹🇷	138	298795
 Franca, Brasil	138	3463011
 São Paulo - SP - Brasil	138	
 Uganda, Kenya	138	192950
@@ -6761,7 +6761,7 @@ The United States	137
 Motherwell, Scotland	137	2638360
 Ávila, España	137	3129136
 Soriano, Uruguay	137	3440054
-🇵🇷	137	
+🇵🇷	137	4566966
 Oxford, OH	137	5146080
 United States of Africa	137	
 London, U.K.	137	2643743
@@ -6777,7 +6777,7 @@ The Great State of Texas	137
 Dilshad Garden, New Delhi	137	1273294
 Montrose, CO	137	5417618
 Halifax, NS, Canada	137	6324729
-Espanya	137	
+Espanya	137	2510769
 Rome *** World *** 🇨🇦🏂⚡️	137	
 Carson, CA	137	5334519
 GOLDEN TRIANGLE	137	
@@ -6791,7 +6791,7 @@ Montevideo Uruguay	137
 Suisse, France	137	3017382
 Lagos State, Nigeria	137	2328926
 Baytown, TX	137	4672731
-Leiden, The Netherlands	137	
+Leiden, The Netherlands	137	2751773
 Vicenza	137	3164419
 Chichester, England	137	2653192
 North Wales, UK	137	2635167
@@ -6845,13 +6845,13 @@ LAGOS, NIGERIA	135	2332453
 Cape Breton, Nova Scotia	135	6091530
 International Space Station	135	
 Indianapolis, IN, USA	135	4259418
-Emilia Romagna	135	
+Emilia-Romagna	135	3177401
 Clermont, FL	135	4155751
 Hic et ubique terrarum	135	
 Jersey City	135	5099836
 Sumatera Utara, Indonesia	135	1643084
 Richmond, TX	135	4722684
-Higüey, República Dominicana	135	
+Higüey, República Dominicana	135	3493240
 Sargodha, Pakistan	135	1166000
 lugano	135	2659836
 United states	135	6252001
@@ -6949,8 +6949,8 @@ Champaign-Urbana, IL	133	4896861
 The Swamp	133	4369286
 anywhere but here	133	
 Fort Collins, Colorado	133	5577147
-polska	133	
-🇵🇰	133	
+polska	133	798544
+🇵🇰	133	1168579
 Lichfield, England	133	2644531
 Lima 	133	3936451
 Minas Tirith	133	
@@ -7037,7 +7037,7 @@ Jaunpur, India	131	1269135
 Japan 	131	1861060
 Saltillo, Coahuila	131	3988086
 Continente Americano	131	
-🇵🇪	131	
+🇵🇪	131	3932488
 Wrexham	131	2633485
 Roodepoort, South Africa	131	936374
 Springfield IL	131	
@@ -7271,7 +7271,7 @@ Chicago, IL - Jupiter, Fla	127
 Wherever 	127	
 indiana	127	4921868
 Coahuila	127	4013674
-Śląskie, Polska	127	
+Śląskie, Polska	127	798544
 Auburn, WA	127	5785965
 Muar • Cyberjaya • Kuantan	127	
 Roxbury, NJ	127	5101760
@@ -7318,7 +7318,7 @@ Dallas-Fort Worth	127
 Montgomery, Texas	126	4736286
 Johor	126	1733049
 Chilangolandia	126	
-TLAXCALA, MÉXICO	126	3523272
+TLAXCALA, MÉXICO	126	3515359
 Caracas, Venezuela 	126	3646738
 Planet A	126	
 Sumter, SC	126	4597948
@@ -7364,7 +7364,7 @@ Auckland New Zealand	126
 Poniente	126	
 Melaka	126	1733035
 Windsor, CT	126	4845920
-🇧🇪	126	
+🇧🇪	126	2802361
 Ahoskie, NC	126	4452256
 Av. Abraham Lincoln	126	
 Southern Cross 🇺🇸🇹🇭 	126	
@@ -7397,7 +7397,7 @@ Lombardia, Italia,Europa	125
 Saumur, France	125	2975758
 São José, Brasil	125	3448742
 Alpha Centauri	125	
-Lima,Perú	125	
+Lima,Perú	125	3936451
 melbourne australia	125	
 Near The Cross ..how bout u ? 	125	
 Vancouver and London	125	
@@ -7453,7 +7453,7 @@ Lorient, France	124	2997577
 Beijing China 	124	
 New Orleans, La	124	4335045
 Bs As. 	124	
-Trujillo, Perú	124	
+Trujillo, Perú	124	3691175
 Lahaina, HI	124	5849996
 Pawtucket, RI	124	5223869
 Sherbrooke, Québec	124	6325494
@@ -7550,9 +7550,9 @@ Jl Sungai Raya Dalam Kubu Raya	123
 Jersey 	123	3042142
 Betim, Brasil	123	3470044
 Australia.	123	2077456
-🇮🇹	123	
+🇮🇹	123	3175395
 La Plata, Buenos Aires	123	3432043
-Gdańsk, Polska	123	
+Gdańsk, Polska	123	3099434
 Jefferson, LA	123	4331987
 Vzla	123	
 eroda	123	1272013
@@ -7587,20 +7587,20 @@ Le Mans	122	3003603
 In burning hell.	122	
 TX, USA	122	4736286
 in Crisp County, Ga.	122	4197000
-U.A.E	122	
+U.A.E	122	290557
 Wallingford, CT	122	4845056
 Calvados, Basse-Normandie	122	
 Nth Yorks	122	
 East Rochester, NY	122	5128638
 Brookfield, WI	122	5279468
 Patria Roja y Negra de Sandino	122	
-REPUBLICA DOMINICANA	122	
+REPUBLICA DOMINICANA	122	3508796
 Rutland	122	5240509
 All around mayhem!!!	122	
 Great Falls, VA	122	4761951
 Niort	122	2990355
 Miami, Florida.	122	98
-Leuven, België	122	
+Leuven, België	122	2792482
 Rio de Janeiro - Brazil	122	
 Dubaï, Emirats Arabes Unis	122	
 León, Gto.	122	1643837
@@ -7612,7 +7612,7 @@ Bay Pines, Florida, USA  🌴⛵️	122
 Nagaland, India	122	1262271
 Cariacica, Brasil	122	3469034
 Everywhere and nowhere	122	
-भारत 🇮🇳	122	
+भारत 🇮🇳	122	1269750
 Hilo, HI	122	5855927
 Ashford, England	122	2656955
 L'Aquila	122	3175121
@@ -7634,11 +7634,11 @@ saint porchaire	121
 São Luís - MA	121	
 Columbus, Ohio USA	121	
 Cuernavaca	121	3529947
-Vaud, Suisse	121	
+Vaud, Suisse	121	2658182
 78	121	99
 Pendik, İstanbul	121	745044
 Scunthorpe, England	121	2638324
-Querétaro, México.	121	3523272
+Querétaro, México.	121	3520914
 Southeast, USA	121	6252001
 Durham, North Carolina	121	4464368
 Valencia Edo. Carabobo	121	
@@ -7728,7 +7728,7 @@ Guelph, ON	120	5967629
 Freiburg im Breisgau	120	2925177
 Left Coast, USA	120	6252001
 all over the place	120	
-🇯🇵	120	
+🇯🇵	120	1861060
 Columbus, Ohio 	120	4509177
 Bogota 	120	3688689
 Kudus, Indonesia	120	1639215
@@ -7765,7 +7765,7 @@ Almada, Portugal	119	2271961
 Umbria, Italy	119	3165048
 Jackson Heights, Queens	119	5133273
 11.009303,-74.808855	119	
-Republica Dominicana.	119	
+Republica Dominicana.	119	3508796
 EveryWhere	119	
 ...on a corner in Winslow, Arizona	119	5551752
 at home where my boots are	119	
@@ -7792,7 +7792,7 @@ Delta, British Columbia	119	5937615
 Earth 🌍	119	
 California Bay Area	119	
 New Jerusalem	119	5601933
-🇩🇪	119	
+🇩🇪	119	2921044
 Maracaibo, Zulia	119	3633009
 Mondo	119	
 new orleans	119	4335045
@@ -7849,7 +7849,7 @@ Genebra, Suíça	118
 Seattle, USA	118	5809844
 minnesota	118	5037779
 Follow/RT ≠ endorsement	118	
-Tarragona, Espanya	118	
+Tarragona, Espanya	118	3108288
 Pucela	118	3106672
 Englewood, CO	118	5421250
 Southern Cali	118	
@@ -7890,24 +7890,24 @@ St Joseph, MO	117	4398678
 TURKEY	117	298795
 Campinas, São Paulo	117	3467865
 Belo Horizonte, MG	117	7601980
-Oaxaca, México.	117	3523272
+Oaxaca, México.	117	3522509
 Middle Tennessee	117	
 Ashland, KY	117	4282757
 Créteil, France	117	3022530
 Twin Falls, ID	117	5596512
-Nayarit, México	117	3523272
+Nayarit, México	117	3995012
 Bayonne, France	117	3034475
 Greenville, S.C.	117	4580543
 Philly 	117	4560349
 The Pacific North West	117	
-Xalapa, Veracruz, México	117	
+Xalapa, Veracruz, México	117	3526617
 USA Columbia MD	117	
 名古屋	117	1856057
 Oshogbo, Nigeria	117	2325590
 Williamsburg, Brooklyn	117	5110302
 Culver City CA USA	117	
 La Luna	117	
-इंदौर, भारत	117	
+इंदौर, भारत	117	1269750
 NY vicinity. Earth. Library.	117	
 Rural Northern California	117	
 Hutchinson, KS	117	4273857
@@ -7942,7 +7942,7 @@ Santa Clara, Cuba	116	3537906
 Santiago de Cuba	116	3536725
 Middle of nowhere	116	
 North West, UK	116	2635167
-belgique	116	
+belgique	116	2802361
 Tulsa	116	4553433
 Mount Pleasant, MI	116	5001836
 bsb	116	3469058
@@ -7957,7 +7957,7 @@ Jakarta,Indonesia	116	1642907
 Yopal, Colombia	116	3665688
 Vigo, Galicia	116	3105976
 Las Américas | España	116	
-Salzburg, Österreich	116	
+Salzburg, Österreich	116	2766823
 Holguín, Cuba	116	3556965
 tampa-ish	116	
 Aiken, SC	116	4569067
@@ -8038,7 +8038,7 @@ Trowbridge, England	115	2635427
 Washington, D. C. 	115	
 Caballito	115	
 Bélgica	115	
-Eisenstadt, Österreich	115	
+Eisenstadt, Österreich	115	2780190
 Agrabah	115	
 Santiago de Cali, Colombia	115	3687925
 São Paulo/Brasil	115	
@@ -8067,7 +8067,7 @@ Over the rainbow	114
 Dehradun (UK)	114	
 Araraquara, Brasil	114	3471766
 Palm Valley, FL	114	4155751
-Durango, México.	114	3523272
+Durango, México.	114	4011741
 Piedimonte di Casolla	114	
 Twin Peaks	114	
 Not Russia 	114	
@@ -8101,7 +8101,7 @@ Montería, Córdoba	114	3674453
 Caracas Venezuela 	114	
 Madurai-Meenakhshi-AmmanTemple	114	
 en route	114	
-Lombardia	114	
+Lombardy	114	3174618
 venus	114	5466336
 Kill Devil Hills, NC	114	4474274
 Contagem / MG	114	
@@ -8205,7 +8205,7 @@ Surrey UK	112
 Avranches, Normandie, France	112	3017382
 New Haven	112	4839366
 O-H-I-O	112	
-Groningen, The Netherlands	112	
+Groningen, The Netherlands	112	2755249
 Brownsburg, IN	112	4255056
 Gardena, CA	112	5351549
 Lo Barnechea, Chile	112	3895114
@@ -8221,7 +8221,7 @@ Naboo	112
 Argenteuil, France	112	3037044
 Samoa	112	4034894
 Earth 🌎	112	
-Belgique 	112	
+Belgique 	112	2802361
 Los Angeles, California USA	112	
 Chacao, Venezuela	112	3645981
 midwest	112	
@@ -8468,12 +8468,12 @@ Oshkosh, WI	109	5265838
 San Andrés Cholula, Puebla	109	3530757
 Melbourne, Victoria Australia	109	
 Tigard, OR	109	5756758
-Cuernavaca, Morelos, México	109	3529612
+Cuernavaca, Morelos, México	109	3529947
 Córdoba - España	109	
 San Rafael, Mendoza, Argentina	109	3836669
 INDIA 	109	1269750
 Tabarnia, España	109	2510769
-South Holland, The Netherlands	109	
+South Holland, The Netherlands	109	2743698
 Little 🦠 England 	109	
 Asturias, España	109	3114710
 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿	109	
@@ -8513,7 +8513,7 @@ Bangaldesh	108
 Portland, Ore.	108	2989317
 Albany, GA	108	4179320
 Manzanillo, Colima	108	3996663
-🇵🇭 	108	
+🇵🇭 	108	1694008
 Samarinda	108	1629001
 Surakarta	108	1625812
 upstate NY	108	
@@ -8683,7 +8683,7 @@ Bournemouth, UK	106	2655095
 Mogadishu	106	53654
 Azcapotzalco, Distrito Federal	106	3640847
 I live in Peronia the best  country .. .No one is crazy here, only a different reality is lived.	106	
-Leyden, The Netherlands	106	
+Leyden, The Netherlands	106	2751773
 Macclesfield, England	106	6269131
 La Guajira, Colombia	106	3678847
 South Miami, FL	106	4155751
@@ -8770,7 +8770,7 @@ North Yorkshire, UK	105	2635167
 Altadena, CA	105	5323525
 Florence	105	3176959
 دولة قطر	105	
-Michoacán, México	105	3523272
+Michoacán, México	105	3995955
 Pontevedra, Galicia	105	3113209
 Dallas,TX	105	4684888
 Antioquia	105	3689815
@@ -8798,7 +8798,7 @@ Solar System	105
 Tomball, TX	105	4737094
 AV CUM TO DA ROITE PLACE DEN	105	
 London/Kent	105	
-Morelia, Michoacán, México	105	
+Morelia, Michoacán, México	105	3995402
 Nashville 	105	4644585
 Vitoria	105	3444924
 Wilmington NC	105	
@@ -8839,7 +8839,7 @@ La Roche-sur-Yon, France	104	3006767
 La Plata - Argentina	104	
 Ubiquitous	104	
 Earth, Sol System.	104	
-República dominicana	104	
+República dominicana	104	3508796
 Jamaica and Florida	104	
 Aurora, Colorado	104	5412347
 The Windy City	104	4887398
@@ -8906,7 +8906,7 @@ Teesside, UK	103	2635167
 In the middle of nowhere	103	
 Southend on sea essex, England	103	6269131
 Caracas. Venezuela	103	
-San Luis Potosí, México.	103	3523272
+San Luis Potosí, México.	103	3985605
 Guarapuava, Brasil	103	3461879
 Frankfurt, Hesse	103	2925533
 Paisley,Scotland	103	2638360
@@ -9020,7 +9020,7 @@ Mandaue City, Central Visayas	102	7521306
 Villa Alemana, Chile	102	3868192
 Mount Laurel, NJ	102	5101760
 Port Harcourt 	102	2324774
-🇸🇬	102	
+🇸🇬	102	1880251
 Newcastle, England	102	2641673
 Clichy, France	102	3024597
 Great Lakes	102	
@@ -9062,7 +9062,7 @@ BKK, Thailand	102	1609350
 Aix-en-Provence	102	3038354
 Belgrade City	102	
 Lagos state	102	
-Mérida,Yucatán,México	102	
+Mérida,Yucatán,México	102	3523349
 Ottawa Canada	102	
 Deep in it.	102	
 Pilar	102	3429980
@@ -9177,7 +9177,7 @@ Aracaju, Brazil	100	3471872
 San Nicolás de los Arroyos	100	3836846
 Sassari, Sardegna	100	
 Bethpage, NY	100	5108955
-Örebro, Sverige	100	
+Örebro, Sverige	100	2686655
 Soledad, Colombia	100	3667849
 Madison, AL	100	4074267
 Paris Bastille 	100	
@@ -9279,7 +9279,7 @@ Ischia	99	3175458
 Greater Sudbury / Grand Sudbur	99	
 bahay	99	1728837
 San Pedro Sula	99	3601782
-Mons, Belgique	99	
+Mons, Belgique	99	2790869
 California Republic	99	
 Oslo, Noruega	99	
 Friesland	99	2755812
@@ -9546,7 +9546,7 @@ Ely, England	96	2650023
 Gulfport ms	96	
 Lexington, Ky	96	4297999
 Estado Falcón - Venezuela	96	
-Tepic, Nayarit, México	96	
+Tepic, Nayarit, México	96	3981941
 Midwest USA.	96	
 Avignon, France / Montpellier France	96	
 Republic of House	96	
@@ -9555,7 +9555,7 @@ Bekasi, Indonesia	96	1649378
 614	96	7521434
 Hesperia, CA	96	5356576
 Magdalena del Mar, Peru	96	3932488
-Brugge, België	96	
+Brugge, België	96	2800931
 Washington DC - 	96	
 İstanbul, Turkey	96	745044
 The Philippines	96	
@@ -9575,7 +9575,7 @@ Malvern, PA	96	5199600
 Aquitaine	96	
 Aragua	96	3649110
 Cengkareng, Indonesia	96	1643084
-Dzierzgoń, Polska	96	
+Dzierzgoń, Polska	96	3099842
 Maine-et-Loire	96	
 Paisley	96	
 The Golden State	96	
@@ -9927,7 +9927,7 @@ Venice, Italy	92	3164603
 Kenya | Nairobi	92	
 Banfield	92	
 Eldoret	92	198629
-Hermosillo, Sonora, México.	92	
+Hermosillo, Sonora, México.	92	4004898
 💚	92	
 Cachoeirinha, Brasil	92	3468403
 Kiel, Germany	92	2891122
@@ -9944,7 +9944,7 @@ Bay area	92
 Kolkata, West Bengal, India	92	1275004
 un mundo raro	92	
 Egypt 	92	357994
-Kingdom of Saudi Arabia 	92	
+Kingdom of Saudi Arabia 	92	2287781
 Findlay, OH	92	5165418
 Douala, Cameroun	92	
 Vernon	92	6173864
@@ -10001,7 +10001,7 @@ Komtar	91
 SG	91	2658821
 Okara, Pakistan	91	1168718
 Lethbridge, Buffalo	91	5110629
-Baden, Schweiz	91	
+Baden, Schweiz	91	2661646
 Foster, Va.	91	6254928
 Pelotas	91	3454244
 South Florida and California, USA	91	6252001
@@ -10018,7 +10018,7 @@ Tarragona, Cataluña	91
 Sonoma County, Ca.	91	5332921
 Austin, TX 	91	4671654
 limbo	91	1706349
-Lyon, 🇫🇷 	91	2996944
+Lyon, 🇫🇷 	91	
 They/Them	91	
 Gustavo A. Madero	91	
 Girardot, Colombia	91	3682028
@@ -10103,7 +10103,7 @@ Bas-Rhin	90
 West Wales	90	
 California, Usa	90	5332921
 Based in Tampa, Florida	90	98
-Guadalajara, México.	90	3523272
+Guadalajara, México.	90	4005539
 Paraná, Entre Ríos	90	3917939
 Afrika	90	
 Bemidji, MN	90	5017822
@@ -10156,7 +10156,7 @@ Brno, Česká republika	90
 Shelbyville, Ky	90	6254925
 Tunis, Tunisia	90	2464464
 colombia 	90	3686110
-पश्चिम बंगाल, भारत	90	
+पश्चिम बंगाल, भारत	90	1269750
 Taichung, Taiwan	90	1668399
 Burnley	90	2654264
 Bhubaneswar 	90	1275817
@@ -10171,7 +10171,7 @@ Leganés, Comunidad de Madrid	90
 lagos, nigeria	90	2332453
 chandigarh	90	1274744
 Goya, Argentina	90	3433715
-Innsbruck, Österreich	90	
+Innsbruck, Österreich	90	2775220
 ILE DE LA REUNION	90	
 Ocean City, Maryland	90	98
 East Harlem, Manhattan	90	5128581
@@ -10241,7 +10241,7 @@ Mexique	89
 East Lansing, Michigan	89	5001836
 NoVA, USA	89	6252001
 san francisco, ca	89	5391959
-Владивосток, Россия	89	
+Владивосток, Россия	89	2013348
 Morón, Buenos Aires	89	3430545
 California / Florida	89	
 Karachi, Pakistan 	89	1174872
@@ -10284,9 +10284,9 @@ Eastern North Carolina	89
 Citizen of America 	89	
 buenos aires, argentina	89	3435907
 Scottsbluff, NE	89	5699404
-Szczecin, Polska	89	
+Szczecin, Polska	89	3083829
 Left of Center	89	
-Charleroi, Belgique	89	
+Charleroi, Belgique	89	2800481
 Calgary, AB Canada	89	
 West Jordan, UT	89	5784549
 37.325519,-122.068598	89	
@@ -10430,7 +10430,7 @@ Canterbury, UK	88	2653877
 Oami, Chiba, Japan	88	2113014
 Derry, NH	88	5085382
 Mex	88	3530597
-Republica dominicana	88	
+Republica dominicana	88	3508796
 Sun	88	5594956
 Laugh Tale	88	
 Panamá, Panamá	88	3703443
@@ -10496,7 +10496,7 @@ Monterrey, Nuevo León.	87	3995465
 Port Saint Lucie, FL	87	4155751
 boston, ma	87	4930956
 Lansdale, PA	87	6254927
-Republica Dominicana 	87	
+Republica Dominicana 	87	3508796
 Villeurbanne, France	87	2968254
 Cartagena de Indias	87	3687238
 Jaraguá do Sul, Brasil	87	3460102
@@ -10511,7 +10511,7 @@ Pasig City, National Capital Region	87
 Toledo, Brasil	87	3446370
 Madiun, Indonesia	87	1636930
 Ciudad Bolívar, Estado Bolívar, Venezuela 	87	3625428
-वाराणसी, भारत	87	
+वाराणसी, भारत	87	1253405
 CONSTITUTIONAL CRISIS 	87	
 東京都世田谷区	87	
 Cordoba Argentina	87	
@@ -10572,7 +10572,7 @@ New hampshire or Los Angeles	87
 West Sacramento, CA	87	5332921
 Miami, FL USA	87	
  London	86	2643743
-Daegu, Republic of Korea	86	
+Daegu, Republic of Korea	86	1835327
 Searching for tomorrow	86	
 Colchester, Essex	86	4935946
 4800 Market St. Youngstown, OH	86	5165418
@@ -10686,7 +10686,7 @@ any pronouns	86
 Cienfuegos, Cuba	86	3564120
 España // Cataluña //Barcelona	86	
 Lekki, Lagos	86	2332121
-Jawa Barat	86	
+West Java	86	1642672
 Rochester, South East	86	
 Kota Makassar	86	1622786
 Worli, Mumbai	86	1275339
@@ -10740,7 +10740,7 @@ New Orleans, USA	85	4335045
 SCOTLAND	85	2638360
 Diamond Bar, CA	85	5332921
 salvador	85	3450554
-Morelia, México	85	3523272
+Morelia, México	85	3995402
 Rugby, England	85	6269131
 Bryan/College Station. TX	85	
 Leuven	85	2792482
@@ -10761,7 +10761,7 @@ Florida Central West Coast	85
 Cambridge, United Kingdom	85	2653941
 Ici et là	85	
 Great Neck, NY	85	5113683
-Mars, PA	85	6254927
+Mars, PA	85	
 Charlottetown, PEI	85	3672486
 ✔ Official Twitter Account	85	
 Westfalen	85	
@@ -10778,7 +10778,7 @@ Chicago Metro	85
 Dirty South	85	
 's-Hertogenbosch, Nederland	85	5432410
 Barra de São Francisco	85	
-republica dominicana	85	
+republica dominicana	85	3508796
 Ibiza - Formentera	85	
 kerala	85	1267254
 Villejuif, France	85	2968705
@@ -10981,7 +10981,7 @@ London  UK	83
 Benito Juárez, Distrito Federal	83	4015839
 NYC | PHL | ATL | SFO	83	
 lylilopez.esy.es	83	
-Linz, Österreich	83	
+Linz, Österreich	83	2772400
 Cochin	83	1273874
 Wenatchee, WA	83	5815342
 Los Angeles/Palm Springs, Ca	83	5332921
@@ -11001,7 +11001,7 @@ Cartagena (Murcia) España	83
 Pato Branco, Brasil	83	3454818
 Northamptonshire, UK	83	2635167
 Panaji, India	83	1260607
-Neuchâtel, Suisse	83	
+Neuchâtel, Suisse	83	2659495
 Kabul Afghanistan	83	
 Dhaka, Bangladesh 	83	1337179
 In its right place	83	
@@ -11018,7 +11018,7 @@ uruwhy	83
 Montevideo,Uruguay	83	3441572
 Banglore	83	
 France/Paris	83	
-Perú.	83	
+Perú.	83	3932488
 mother earth	83	
 Under your bed	83	
 Guatire, Venezuela	83	3639898
@@ -11136,7 +11136,7 @@ PIANETA TERRA	82
 Lake Havasu City, AZ	82	5551752
 Kobe, Japan	82	1859171
 Harrison, NJ	82	5098863
-Rochefort, Belgique	82	
+Rochefort, Belgique	82	2802361
 Мелітополь, Запорізька обл. Україна Melitopol, Zaporizhya region, Ukraine	82	
 Wimborne Minster, Dorset	82	
 Qc	82	6115047
@@ -11159,14 +11159,14 @@ Castellammare di Stabia	82	3179661
 barranquilla	82	3689147
 #Kinshasa	82	
 Erie, Pa	82	5188843
-भुवनेश्वर, भारत	82	
+भुवनेश्वर, भारत	82	1275817
 oviedo-Asturias	82	
 Little England	82	
 Asansol, India	82	1278314
 Quarantined	82	
 Playa del Carmen	82	3521342
 Patna, Bihar, India	82	1260086
-Incheon, Republic of Korea	82	
+Incheon, Republic of Korea	82	1843561
 nunya	82	
 L'Épiphanie, Québec	82	6325494
 fortaleza	82	3399415
@@ -11188,7 +11188,7 @@ Venice, Los Angeles	82	5368361
 georgia	82	614540
 Cambridgeshire, England	82	6269131
 Guantánamo, Cuba	82	3557685
-Hermosillo,Sonora,México	82	
+Hermosillo,Sonora,México	82	4004898
 Northeastern USA	82	
 montpellier	82	2992166
 Miami, Florida, USA	82	4164138
@@ -11209,7 +11209,7 @@ Dallas, GA	81	4190598
 Euless, TX	81	4736286
 varies	81	
 New London, CT	81	4839416
-🇬🇧 	81	
+🇬🇧 	81	2635167
 La Plata. Bs. As. Arg.	81	
 Hazaribag, India	81	1270164
 ITALY	81	3175395
@@ -11246,7 +11246,7 @@ Belém/Pa	81
 #worldwide 	81	
 Sleman, Yogyakarta	81	1626754
 Madison, Wisconsin, USA	81	5261457
-Herrliberg, Schweiz	81	
+Herrliberg, Schweiz	81	2658434
 San Fernando del Valle de Cata	81	
 Heartland of America	81	
 slytherin	81	
@@ -11278,7 +11278,7 @@ Sabah	81	1733039
 Latvia, Riga	81	456173
 Assam	81	1278253
 Logroño, La Rioja	81	98
-The Netherlands 	81	
+The Netherlands 	81	2750405
 Flint, Michigan, USA	81	4992982
 Island of the Gods & all too much plastic	81	
 Germania	81	
@@ -11401,7 +11401,7 @@ Managua- Nicaragua	80
 State of Rage / World of Love	80	
 Los Rios, Ecuador	80	3654592
 Bojonegoro, Indonesia	80	1648451
-Umeå, Sverige	80	
+Umeå, Sverige	80	602150
 Living in your head rent free	80	
 Niedersachsen	80	
 Southwest 	80	
@@ -11415,7 +11415,7 @@ antofagasta chile	80
 Dunwoody, GA	80	4197000
 Sandusky, OH	80	5170691
 Ottawa Ontario	80	
-Ciudad Obregón, Sonora, México	80	
+Ciudad Obregón, Sonora, México	80	4013704
 God Bless America	80	
 Cartersville, GA	80	4186531
 Key Largo, FL	80	4160795
@@ -11443,7 +11443,7 @@ The Mountains	80
 Warsaw and Brussels	80	
 Rivendell	80	
 Melun, France	80	2994651
-चेन्नई, भारत	80	
+चेन्नई, भारत	80	1264527
 Earth/Australia/Tasmania	80	
 Kingdom Hearts	80	
 SRI LANKA	80	1227603
@@ -11656,7 +11656,7 @@ New Canaan, CT	78	4831725
 In your heart 	78	
 Heartland USA	78	
 Uttar Pradesh	78	1253626
-🌎🇨🇦	78	
+🌎🇨🇦	78	6251999
 Castleford, England	78	6269131
 Westfield, IN	78	4928118
 Monroe, NC	78	4482348
@@ -11778,7 +11778,7 @@ Lagos, Nigeria 🇳🇬	78	2332453
 Viladecans, España	78	2510769
 Central to all things 	78	
 FORTITER inRE SUAVITER  inMODO	78	
-भोपाल, भारत	78	
+भोपाल, भारत	78	1275841
 Maltepe, İstanbul	78	745044
 Kingston upon Hull	78	2645425
 Summit, NJ	78	5101760
@@ -11909,7 +11909,7 @@ All Over	77
 Carmel, Indiana	77	4255466
 Buenos Aires, ARGENTINA	77	3435907
 Tebet, Indonesia	77	1643084
-Genève et Lausanne, Suisse	77	
+Genève et Lausanne, Suisse	77	2658434
 OCOEE FL34761	77	
 Pindamonhangaba, Brasil	77	3453837
 Calcutta, India	77	1275004
@@ -11926,7 +11926,7 @@ Tucson AZ	77
 DM[V]	77	
 MÉTROPOLE DE LYON	77	
 Perth, Perth (WA)	77	
-Veracruz, México.	77	3523272
+Veracruz, México.	77	3514780
 DFW Texas	77	
 B/W Venus, Mercury & Jupiter	77	
 Leyland, England	77	6269131
@@ -12060,7 +12060,7 @@ Reynosa,Tamaulipas; México	76
 Saudi Arabia 	76	102358
 Jena, Deutschland	76	2895044
 Barranco, Peru	76	3932488
-Mataró, Espanya	76	
+Mataró, Espanya	76	3117164
 The Hague, Netherlands	76	2747373
 LONG ISLAND RED, NEW YORK	76	5128638
 Elmont, NY	76	5116508
@@ -12078,7 +12078,7 @@ Sénégal 🇸🇳	76
 Aba, Nigeria	76	2353151
 So. California	75	
 Al millor país CATALUNYA !	75	
-Luzern, Schweiz	75	
+Luzern, Schweiz	75	2659811
 Broward County, Florida	75	98
 Rostock	75	2844588
 KwaZulu, South Africa	75	953987
@@ -12145,7 +12145,7 @@ Bathurst, New Brunswick, Canada	75	97
 Magdeburg, Deutschland	75	2874545
 Thionville, France	75	2972811
 Seminole, FL	75	4155751
-Veracruz de Ignacio de la Llave, México	75	3523272
+Veracruz de Ignacio de la Llave, México	75	3996063
 UT	75	5549030
 galicia	75	3336902
 Aurangabad, Maharashtra	75	1278149
@@ -12155,7 +12155,7 @@ Ludwigsburg, Deutschland	75	2875392
 Delco	75	
 Los Polvorines, Argentina	75	3431057
 LATINOAMERICANO	75	
-México. 	75	3523272
+México. 	75	3996063
 Udupi, India	75	1253952
 Tirana	75	3344951
 Busia, Kenya	75	199987
@@ -12224,7 +12224,7 @@ Youtube	75
 Leverkusen, Deutschland	75	2878234
 Texas - USA	75	
 Westlands	75	
-Mechelen, België	75	
+Mechelen, België	75	2791537
 Blangkejeren Aceh	75	
 indy	75	
 ÜT: 19.41757,-99.21153	75	
@@ -12378,7 +12378,7 @@ New Smyrna Beach, FL	74	4165913
 El Paso, Texas Deplorable	74	
 TEXAS - NYC - FLORIDA 	74	
 Palhoça, Brasil	74	3469034
-Eindhoven, The Netherlands	74	
+Eindhoven, The Netherlands	74	2756253
 GIRON	74	3682018
 bogota colombia	74	
 Central Okanagan, British Columbia	74	5909050
@@ -12452,7 +12452,7 @@ Be'er Sheva, Israel	73	295530
 Outer space	73	
 san salvador	73	98
 Guernica, Argentina	73	3480740
-León, Guanajuato, México	73	
+León, Guanajuato, México	73	3998655
 Cartagena, Bolívar	73	3687238
 Newfoundland and Labrador, Canada	73	97
 Online 	73	
@@ -12491,7 +12491,7 @@ Asheboro, NC	73	4482348
 Undisclosed location	73	
 Solo	73	1625812
 maijdee, Noakhali	73	
-Basel-Land, Schweiz	73	
+Basel-Land, Schweiz	73	2658434
 Bergen, Norge	73	
 Asia-Pacific	73	
 Goiania	73	3462377
@@ -12662,7 +12662,7 @@ Aptos, CA	72	5324400
 Lincoln, Lincolnshire	72	
 Your Mind	72	
 los angeles 	72	5368361
-República Dominicana.	72	
+República Dominicana.	72	3508796
  Massachusetts....  	72	6254926
 Barriada filosófica	72	
 Umhlanga, South Africa	72	953987
@@ -12946,7 +12946,7 @@ Staten Island	71	5139568
 Detroit, MI 	71	4990729
 UK, India	70	1269750
 utopia	70	
-नवी मुंबई, भारत	70	
+नवी मुंबई, भारत	70	6619347
 Hudson Valley, NY, USA	70	5128638
 Saint Louis, Missouri 	70	4407066
 Tuguegarao City, Cagayan Valle	70	
@@ -12962,7 +12962,7 @@ Ibadan 	70	2339354
 Kinston, NC	70	4474436
 Lansing	70	4998830
 Kidderminster	70	2645724
-Lima , Perú	70	
+Lima , Perú	70	3936451
 Los Alamos, NM	70	5476825
 Ikeja, Lagos	70	2338313
 Ottawa 	70	6094817
@@ -13038,7 +13038,7 @@ The Valley	70	11205396
 The Emerald Triangle	70	
 Craiova	70	680332
 Rural N Ga Mts, US	70	6252001
-Ixelles, Belgique	70	
+Ixelles, Belgique	70	2795011
 Metropolis	70	4244462
 Boulogne Billancourt	70	
 Kinshasa, RD Congo	70	
@@ -13058,7 +13058,7 @@ Muskoka	70
 Saratoga, CA	70	5393485
 TOTAL U.S. GOV'T OBLITERATION	70	
 Central Virginia	70	
-हरियाणा, भारत	70	
+हरियाणा, भारत	70	1269750
 Rabat, Maroc	70	
 nantes	70	2990969
 Midgar	70	
@@ -13109,7 +13109,7 @@ Rohtak, India	70	1258076
 Solingen	70	2831580
 Arras	70	3036784
 https://lopezobrador.org.mx/2018/08/17/documentos-de-consulta-sobre-aeropuerto/	70	
-Puebla, Pue., México	70	
+Puebla, Pue., México	70	3996063
 Osasco	70	
 Argentina - Buenos Aires	70	
 La Paz, Madrid	70	3117732
@@ -13163,7 +13163,7 @@ North Texas, USA	69	6252001
 Aberdeen, SD	69	5769223
 At the beach in NJ	69	
 กรุงเทพมหานคร	69	1609350
-Utrecht, the Netherlands	69	
+Utrecht, the Netherlands	69	2745909
 Track #Unfollowers Panama City	69	
 Charlottetown, Prince Edward Island	69	5920288
 Niamey	69	2595294
@@ -13213,7 +13213,7 @@ Grand Rapids	69	4994358
 En una isla	69	
 here 	69	
 North Okanagan, B.C.	69	5909050
-Bassenge, Belgique	69	
+Bassenge, Belgique	69	2802606
 Cardiff, United Kingdom	69	2653822
  Harlem / Accra	69	
 SP, Brazil	69	3469034
@@ -13332,7 +13332,7 @@ JPN　Recesses of a mountain	68
 Andaman And Nicobar, India	68	1278647
 Guwahati, Assam, India	68	1271476
 CUBA	68	3562981
-Bernissart, Belgique	68	
+Bernissart, Belgique	68	2802361
 Zanesville, OH	68	4528923
 pontianak	68	1630789
 República de Peronia	68	
@@ -13483,7 +13483,7 @@ Kiribati	68	4030945
 Barc NY Brist Portug Beth Gaza	68	
 Torreón, Comarca Lagunera	68	
 Québec (QC), Canada	68	6251999
-Fribourg, Suisse	68	
+Fribourg, Suisse	68	2660717
 NYC & Worldwide	68	
 Not Russia	68	
 sur un marché quelque part 	68	
@@ -13523,7 +13523,7 @@ Batavia, IL	67	4896861
 Kawartha Lakes, Ontario	67	6093943
 Abeokuta	67	2352947
 PEI	67	3672486
-Linköping, Sverige	67	
+Linköping, Sverige	67	2694762
 pa	67	6254927
 Vitoria-Gasteiz, País Vasco	67	
 Chicago suburbs	67	
@@ -13606,10 +13606,10 @@ bolívia	67
 Shropshire, England	67	6269131
 Devon and Cornwall, UK	67	2635167
 New World	67	
-North Brabant, The Netherlands	67	
+North Brabant, The Netherlands	67	2749990
 New Jersey, USA🇺🇸	67	5101760
 Dunmore Town, Bahamas	67	3572462
-Киев, Украина	67	
+Киев, Украина	67	703448
 kanpur	67	1267995
 Mars, Mont Olympus	67	
 NOVA	67	
@@ -13617,7 +13617,7 @@ Republic of California	67
 Central Point, Oregon	67	5744337
 Geneva, IL	67	4896861
 Greater NYC Area	67	
-Gdynia, Polska	67	
+Gdynia, Polska	67	3099424
 Centurion	67	1105777
 magic shop	67	
 vancouver, bc	67	6173331
@@ -13630,7 +13630,7 @@ Aurora	67	5412347
 Nakuru	67	7668902
 Heaven ⚜	67	
 Alafaya, FL	67	4155751
-Dubai, U.A.E	67	
+Dubai, U.A.E	67	292224
 Clinton, MD	67	4351871
 SeaTac, WA	67	5815135
 Kingston, Jamaica 	67	3489853
@@ -13717,7 +13717,7 @@ Pereira - Colombia	66
 Aceh Timur, Nangro Aceh Daruss	66	
 Stafford, VA	66	4787247
 Alderaan	66	
- भारत	66	
+ भारत	66	1269750
 pilipinas	66	
 Cryptosphere	66	
 Commie Annex, Canada 	66	6251999
@@ -13765,7 +13765,7 @@ MD, USA	66	4361885
 Dallas Tx	66	
 Boquim, Brasil	66	3468823
 Jax, FL	66	4160021
-Oaxaca de Juarez, México	66	3523272
+Oaxaca de Juarez, México	66	3522507
 Ottawa-Gatineau	66	
 The Interwebs	66	
 mumbai, india	66	1275339
@@ -13773,7 +13773,7 @@ Verteiltes System	66
 North of Boston	66	
 Southaven, MS	66	4436296
 Driftwood, Texas	66	4736286
-Poza Rica, Veracruz, México	66	
+Poza Rica, Veracruz, México	66	3521168
 Imagination	66	
 Saint Vincent and the Grenadines	66	3577815
 #PDX	66	
@@ -13782,7 +13782,7 @@ Telde, España	66	2510542
 Sénégal 	66	
 Utrera, España	66	2510073
 Jammu | Kashmir | Delhi	66	
-Ciudad de México, México🇲🇽	66	3523272
+Ciudad de México, México🇲🇽	66	3530597
 Inverness, FL	66	4155751
 Haverhill, MA	66	4939085
 Erehwon	66	
@@ -13800,7 +13800,7 @@ New Amsterdam	66	5128581
 La Plata,Argentina	66	3432043
 Citizen-at-Large	66	
 澳門	66	1821274
-Boca del Río, Veracruz, México	66	
+Boca del Río, Veracruz, México	66	3532193
 Blue Bell, PA	66	5180961
 Norfolk, United Kingdom	66	2635167
 Chicagoland, USA	66	6252001
@@ -13841,7 +13841,7 @@ Oswego, IL	66	4904996
 Sebring, FL	66	4155751
 Coast Salish Territory	66	
 Trieste, Italy	66	3165185
-Tijuana, México	66	3523272
+Tijuana, México	66	3981609
 Boulder City, NV	66	5500539
 jerez de la frontera	66	2516326
 California -The Wildfire State	66	
@@ -13888,7 +13888,7 @@ Leura, Blue Mountains	65
 Paranaque City, Philippines	65	1694008
 🇹🇹	65	
 Seattle Munich Bangalore Seoul	65	
-Guadalajara, Jalisco, México.	65	
+Guadalajara, Jalisco, México.	65	4005539
 bretagne	65	
 Barry, Wales	65	2656235
 Worthing	65	2633521
@@ -13937,7 +13937,7 @@ Uruapan, Michoacán de Ocampo	65	4011511
 Mexico ✔	65	3996063
 kakdwip	65	
 Ruidoso, NM	65	5488598
-Al Khobar, Kingdom of Saudi Arabia	65	
+Al Khobar, Kingdom of Saudi Arabia	65	2287781
 24 landen	65	
 Estado de Mexico	65	
 Côte d'Azur	65	
@@ -14016,7 +14016,7 @@ East Lothian, Scotland	65	2638360
 Sénégal, Dakar, Point E	65	
 somewhere out there	65	
 Rep Bolivariana de Venezuela	65	
-Amersfoort, The Netherlands	65	
+Amersfoort, The Netherlands	65	2759821
 Paris / France	65	
 Israel / US	65	
 Ümraniye, İstanbul	65	745044
@@ -14026,7 +14026,7 @@ Marco Island, Florida	65	98
 Aotearoa New Zealand.	65	
 Dash Point, WA	65	5815135
 City of Yonkers, NY	65	5128638
-Morelia, Michoacán, México.	65	
+Morelia, Michoacán, México.	65	3995402
 Port Moody, British Columbia	65	5909050
 Crete, Greece	65	6697802
 Madrid (presuntamente Europa)	65	
@@ -14099,7 +14099,7 @@ Españamá	64
 Neón 89.3FM	64	
 South East Asia 	64	
 ♥	64	
-🇮🇳 	64	
+🇮🇳 	64	1269750
 Jaffa Port	64	
 Morgandale, OH	64	5165418
 Greenville, TX	64	4736286
@@ -14113,7 +14113,7 @@ SENEGAL	64	2245662
 Bangkok, Thaïlande	64	
 Medellín-Colombia	64	
 South West UK	64	
-Guanajuato, México.	64	3523272
+Guanajuato, México.	64	4005267
 Emiratos Árabes Unidos	64	
 Pickerington, OH	64	4521209
 Rutland VT.	64	
@@ -14185,7 +14185,7 @@ Terra Incognita	64
 DC∙FL∙TX∙OH∙AL∙CA∙MA	64	
 Guaynabo	64	4565120
 world citizen	64	
- México	64	3523272
+ México	64	3996063
 exoplanet	64	
 va	64	6254928
 Barranquilla,Colombia	64	3689147
@@ -14310,7 +14310,7 @@ Catalonia-Europe-World	63
 ÜT: 33.857102,-118.199134	63	
 PL	63	2855707
 Glastonbury, England	63	2648559
-सूरत, भारत	63	
+सूरत, भारत	63	1269750
 #Happiness #inspiration #love #grief #addiction #motivation #love #mindfulness	63	
 MTY	63	3995465
 Cabimas, Venezuela	63	3647651
@@ -14404,7 +14404,7 @@ Torredembarra	63
 Casterly Rock	63	
 Bhavnagar, India	63	1276032
 Exeter, NH	63	5085966
-छत्तीसगढ़, भारत	63	
+छत्तीसगढ़, भारत	63	1269750
 Oviedo, Principado de Asturias	63	
 Soverato (Cz)	63	
 King's Lynn	63	2645456
@@ -14504,7 +14504,7 @@ pauliworld.spcp@gmail.com	63
 Erbil, Kurdistan	63	
 Silent Hill	63	
 Saint-Brieuc, France	63	2981280
-Lublin, Polska	63	
+Lublin, Polska	63	858785
 Battipaglia, Campania	63	3182272
 1st floor Masengere kampala	63	
 Chicago burbs	63	
@@ -14643,7 +14643,7 @@ Perth, Ontario	62	2063523
 Irvine CA	62	
 718	62	
 Natchitoches, LA	62	4334720
-Manresa, Espanya	62	
+Manresa, Espanya	62	3117533
 Third Rock from the Sun	62	
 Pecos, NM	62	5483680
 Not here	62	
@@ -14727,7 +14727,7 @@ Patriotic Flyover Country	62
 Whidbey Island	62	
 Bayangkan empat gadis berbikin	62	
 Silicon Valley USA	62	
-Katowice, Polska	62	
+Katowice, Polska	62	3096472
 smart city#56	62	
 Sherwood	62	5273018
 Cordillera, Paraguay	62	3438827
@@ -14762,12 +14762,12 @@ Klang Valley	62
 Highlands, NJ	62	5099060
 Odessa, Ukraine	61	698738
 Pianeta Terra	61	
-Hermosillo, México	61	3523272
+Hermosillo, México	61	4004898
 India, UAE, Kuwait, Qatar	61	
 Trichy	61	1254388
 Huntingdon, England	61	2646393
 Makati City, NCR, PH	61	
-Prague, Czech republic	61	
+Prague, Czech republic	61	3067696
 Arcata, CA	61	5558953
 Connect with fellow bloggers: 👇	61	
 Canmore, Alberta	61	5883102
@@ -14809,7 +14809,7 @@ Perth, Ontario,Canada	61	2063523
   Sunny Southern California	61	
 7636 Linn Grove Rd, Odessa, MO 64076, USA	61	
 Philippines🇵🇭	61	1694008
-Monterrey, Nuevo León, México.	61	
+Monterrey, Nuevo León, México.	61	3995465
 kabul	61	1138957
 Kinshasa, DRC	61	
 Tàrrega	61	3108285
@@ -14853,7 +14853,7 @@ Bay Village, Ohio	61	5146675
 For now, Earth	61	5520687
 Limerick & Dublin, Ireland	61	2963597
 Binan, Laguna	61	5364499
-Екатеринбург, Россия	61	
+Екатеринбург, Россия	61	1486209
 Aligarh	61	1279017
 Mableton, GA	61	4197000
 المدينة المنورة	61	109223
@@ -14905,7 +14905,7 @@ Manaus AM	61
 Rage University, Freeland	61	5184966
 Encarnación, Paraguay	61	3438735
 Lemon Grove, CA	61	5365893
-Mazowieckie, Polska	61	
+Mazowieckie, Polska	61	798544
 Univerϟe	61	
 Palma de Mallorca, Spain	61	2512989
 KJH | Sydney | Australia	61	
@@ -14937,7 +14937,7 @@ Princeton, BC	61	5909050
 Burzaco	61	
 Western US	61	
 Focşani, România	61	
-Callao, Perú	61	
+Callao, Perú	61	3946080
 Estambul, Turquía	61	
 Ocean City, MD	61	4364312
 Louisville, KY. USA	61	
@@ -14950,7 +14950,7 @@ Milwaukee, WI, USA	61	5263045
 Davao	61	7521309
 Besant Nagar, Chennai	61	1264527
 Worcestershire, England	61	6269131
-Zug, Schweiz	61	
+Zug, Schweiz	61	2657907
 INTERNATIONAL SPACE STATION	61	
 Warri	61	2319133
 Brindisi, R.Flores, 1	61	
@@ -15036,7 +15036,7 @@ Delhi/NCR	60
 Brooklyn,NY	60	5110302
 Liberland	60	
 Caracas/Venezuela	60	
-Córdoba, Veracruz, México	60	
+Córdoba, Veracruz, México	60	3530240
 Islas Baleares	60	
 Los Angeles / New York	60	
 Sant Andreu de Palomar	60	3110876
@@ -15199,7 +15199,7 @@ Canada and the world	60
 The Southiest South, USA	60	6252001
 Fitzgerald, GA	60	4195168
 Switzerland & Italy	60	
-Duarte, Republica Dominicana	60	
+Duarte, Republica Dominicana	60	3508718
 Commack, NY	60	5113412
 Glassboro, NJ	60	4501931
 Casa Grande, AZ	60	5288636
@@ -15236,7 +15236,7 @@ Brisbane, QLD, Australia	60	2077456
 OXFORDSHIRE	60	
 NY by way of AR	60	
 Piauí	60	3392213
-Ciudad de México, México 	60	3523272
+Ciudad de México, México 	60	3530597
 pachuca Hgo.	60	
 Dover, PA	60	5187215
 Pyrénées-Atlantiques, Aquitaine	60	
@@ -15277,7 +15277,7 @@ Land of free; home of brave	59
 Zionsville, IN	59	4921868
 Michigan City, IN	59	4921868
 World Wide🌏	59	
-झारखंड, भारत	59	
+झारखंड, भारत	59	1269750
 Worthington, OH	59	5165418
 be reconciled to God 2Cor5:20	59	
 Bucaramanga 	59	3688465
@@ -15624,7 +15624,7 @@ Frankfurt, Hessen	58
 Ulm, Germany	58	2820256
 🇲🇨	58	
 Beside you	58	
-Hermosillo Sonora, México	58	3523272
+Hermosillo Sonora, México	58	3996063
 Hastings	58	2647356
 Pioneer Valley, MA	58	6254926
 Tottenham	58	
@@ -15673,7 +15673,7 @@ Trapani, Sicilia	58
 Klang 	58	1732905
 Ecuador-Guayaquil	58	
 San Antonio, TX 78229	58	
-कर्नाटक, भारत	58	
+कर्नाटक, भारत	58	1269750
 Hlavní město Praha, Česká repu	58	
 Waterford	58	2960992
 Richard's Bay, South Africa	58	953987
@@ -15686,7 +15686,7 @@ Milan Italy	58
 So. Calif.	58	
 West Essex, NJ	58	5101760
 Davis CA	58	
-Zurich, Suisse	58	
+Zurich, Suisse	58	2657895
 villajoyosa Alicante (España)	58	
 West Georgia - East Alabama	58	
 Florida, USA (formerly WNY)	58	
@@ -15710,7 +15710,7 @@ dlsu	58
 Mindanao	58	
 दिल्ली	58	1273294
 ravenclaw	58	
-La Paz, México	58	1707321
+La Paz, México	58	4000900
 Freedom, CA	58	5350678
 New Castle, PA	58	5203127
 paris, france	58	2988507
@@ -15718,7 +15718,7 @@ Eure, Haute-Normandie	58
 Apopka, FL	58	4146166
 Peoria/Bloomington, IL	58	4896861
 Ciudad del Este	58	3439101
-Rotterdam, the Netherlands	58	
+Rotterdam, the Netherlands	58	2747891
 Bahía Blanca 	58	3865086
 NASA	58	
 Los Cuatro Diablos - Chile !!	58	
@@ -15839,7 +15839,7 @@ Israel 	57	294640
 Summerlin South, NV	57	7262622
 6	57	
 Arezzo	57	3182884
-Coahuila, México	57	3523272
+Coahuila, México	57	4013674
 Indian Country, Oklahoma	57	4544379
 Las Condes, 🇨🇱 Chile 🇨🇱	57	3895114
 ΜΟΛΩΝ ΛΑΒΕ	57	
@@ -15858,7 +15858,7 @@ Mérida, República Bolivariana de Venezuela	57
 Douala, Cameroon	57	2232593
 South Mississippi	57	
 Pacific Coast USA	57	
-Makkah Al Mukarrama, Kingdom of Saudi Arabia	57	
+Makkah Al Mukarrama, Kingdom of Saudi Arabia	57	2287781
 Beyond the wall	57	
 Northport, NY	57	5129290
 Lancaster, NY	57	5123954
@@ -15965,7 +15965,7 @@ Estepona, España	57	2517816
 Tai Po District, Hong Kong	57	1819730
 CA Conservative turned TEXAN! Gov. Greg Abbott is the best! #MAGA	57	
 Santa Clarita, California	57	5393049
-Nijmegen, The Netherlands	57	
+Nijmegen, The Netherlands	57	2750053
 Tourcoing	57	2972284
 oslo	57	3143242
 Hopkinsville, KY	57	4295251
@@ -15979,7 +15979,7 @@ Taunton, MA	57	4952629
 Burnaby, BC	57	5911606
 Rouen, Haute-Normandie	57	
 Lithonia, Ga	57	4205889
-Иркутск, Россия	57	
+Иркутск, Россия	57	2023469
 Pamplona-Iruña,	57	
 Teruel	57	3108126
 Ferguson, MO	57	4386387
@@ -16011,7 +16011,7 @@ DTLA	57
 Lodz, Poland	57	3093133
 Yangon	57	1298824
 Madrid / España	57	
-पंजाब, भारत	57	
+पंजाब, भारत	57	1269750
 Camaçari	57	3468031
 Goole, England	57	6269131
 SÃO PAULO	57	3448433
@@ -16043,7 +16043,7 @@ hongkong	57	1819729
 Htx	57	
 Paderborn, Deutschland	57	2855745
 seville	57	2510911
-เชียงใหม่, ประเทศไทย	57	
+เชียงใหม่, ประเทศไทย	57	1153671
 Tokat, Türkiye	57	738742
 Atascocita, TX	57	4736286
 Corleone, Sicilia	57	
@@ -16064,7 +16064,7 @@ Indraprastha 	57
 Coppell, TX	57	4736286
 Mile High City	57	5766425
 BCN-Catalunya	57	
-Lutry, Suisse	57	
+Lutry, Suisse	57	2658434
 Cincinnati OH	57	
 دولة الإمارات - أبوظبي	57	
 #USA	57	
@@ -16150,7 +16150,7 @@ Staten Island NY	56
 東京都千代田区	56	
 Cork, Ireland.	56	2965140
 Montréal, Qc	56	6077243
-León, México	56	3523272
+León, México	56	3998655
 Redditch	56	2639557
 Carlsbad, NM	56	5481136
 Franken	56	
@@ -16267,7 +16267,7 @@ San Juan, Dominican Republic	56	3493091
 Sabaneta, Colombia	56	3670475
 Beaufort, SC	56	4570284
 Santos/SP	56	
-गाज़ियाबाद, भारत	56	
+गाज़ियाबाद, भारत	56	1269750
 केरल भारत	56	
 Kimberley, British Columbia	56	5992059
 Vaucluse Provence 	56	
@@ -16304,7 +16304,7 @@ Rishikesh, India	56	1258128
 Hell on Earth	56	
 USA..happy to be here:-)	56	
 new york ny	56	
-the netherlands	56	
+the netherlands	56	2750405
 Coastal England	56	
 Lalaland	56	
 UCLA	56	
@@ -16330,7 +16330,7 @@ Santa Marta Colombia	56
 Allen, Texas	56	4670300
 he/him/they/them	56	
 Strasbourg, Europe	56	
-Sant Cugat del Vallès, Espanya	56	
+Sant Cugat del Vallès, Espanya	56	3110718
 Miguel Hidalgo, Distrito Federal	56	3640847
 Patriota Italiano	56	
 The Library	56	
@@ -16389,7 +16389,7 @@ Khairpur, Pakistan	55	1162004
 Gwadar, Pakistan	55	1177446
 Brunete, España	55	3127588
 Por aí	55	
-Nowhere, man	55	2643123
+Nowhere, man	55	
 San Jose, CA 	55	5392171
 Santa Cruz de Tenerife, Islas 	55	
 CARACAS, VENEZUELA	55	3646738
@@ -16419,7 +16419,7 @@ Saltillo Coahuila	55
 Somewhere in the middle	55	
 Monforte de Lemos, España	55	3116478
 Trump Country	55	
-Basel-Stadt, Schweiz	55	
+Basel-Stadt, Schweiz	55	2658434
 Taupo District, New Zealand	55	2186224
 Castro, Chile	55	3895114
 Minneapolis St. Paul Chaska MN	55	
@@ -16467,7 +16467,7 @@ En tu corazón 	55
 Out at the Hives	55	
 Hawai'i	55	
 turtle island	55	
-Mérida, Yucatán, México.	55	
+Mérida, Yucatán, México.	55	3523349
 Narok, Kenya	55	7668904
 Villa Carlos Paz	55	3832791
 Congo	55	
@@ -16709,13 +16709,13 @@ Little Elm, TX	54	4736286
 Almaty Kazakhstan	54	
 MPLS	54	
 Kota Jambi, Jambi	54	1642856
-Воронеж, Россия	54	
+Воронеж, Россия	54	472045
 Mumbai Delhi London New York	54	
 wigan	54	2633948
 Cherbourg	54	3025466
 The Upside Down 	54	
 New Haven CT	54	
-Acayucan, Veracruz, México	54	
+Acayucan, Veracruz, México	54	3533426
 Matthews, NC	54	4478334
 New Jersey coast	54	
 YYJ	54	6174041
@@ -16911,7 +16911,7 @@ Florida, NY	54	5117451
 SP - Brasil	54	
 🌎　地球上です。🌎	54	
 India, Mumbai	54	1275339
-Auderghem, Belgique	54	
+Auderghem, Belgique	54	2802960
 EN LA ESPAÑA DEL SENTIDO COMÚN	54	
 puerto rico	54	4566966
 California Kid, on Mars 	54	
@@ -16925,7 +16925,7 @@ Santos (SP)	54
 Meinong's Jungle	54	
 República de FiFidonia	54	
 Danbury CT	54	
-🇳🇬 	54	
+🇳🇬 	54	2328926
 Fly Over Country	54	
 Hedgesville, WV	54	4826850
 Creil, France	54	3022610
@@ -16956,7 +16956,7 @@ St Helens, Larapuna, Tasmania	54
 💛	54	
 Native Californian	54	
 Benelux	54	
-Aalst, België	54	
+Aalst, België	54	2803448
 Port Said, Egypt	54	358617
 Jhb/NYC	54	
 Bernal	54	3532263
@@ -17306,7 +17306,7 @@ Ibadan Nigeria	53
 Moncton, New Brunswick canada	53	
 Sweet Home Chicago	53	
 Yukon, Canada	53	97
-Colombier (NE), Suisse	53	
+Colombier (NE), Suisse	53	2658434
 Cascavel, Paraná	53	3466779
 Bel Air, Los Angeles	53	5368361
 Britain, Europe & Middle East	53	
@@ -17340,13 +17340,13 @@ Olympus Mons	52
 BsAs	52	
 Paramus, NJ	52	5102387
 VERO UOMO DI DIO!	52	
-Jawa Timur	52	
+East Java	52	1642668
 Ζωγράφου	52	8358544
 46.869100,103.848242	52	
 Port Harcourt,Nigeria	52	2324774
 San Fernando, Chile	52	3895114
 🇭🇳	52	
-आसाम, भारत	52	
+आसाम, भारत	52	1269750
 McKeesport, PA	52	5200499
 Durango, Dgo. México	52	
 East Fife, Scotland	52	2638360
@@ -17364,7 +17364,7 @@ Ely, Cambridgeshire	52
 Fortaleza-ce	52	
 Canada🇨🇦	52	6251999
 South Central Birmingham (UK)	52	
-उड़ीसा, भारत	52	
+उड़ीसा, भारत	52	1269750
 España/Spain	52	
 Chaska, MN	52	5020938
 Araguaína, Brasil	52	3407357
@@ -17372,7 +17372,7 @@ Dying Earth	52
 Oahu area	52	
 The Hatchery	52	4832353
 H/\LIF/\X, Nova Scotia, Canada	52	97
-DF, México	52	3523272
+DF, México	52	3996063
 Timisoara, Romania	52	665087
 💕	52	
 Newdelhi	52	
@@ -17496,7 +17496,7 @@ USSR	52
 Miami and europe	52	
 Botafogo, Rio de Janeiro	52	3451189
 Jamshoro Sindh	52	
- 🇵🇭	52	
+ 🇵🇭	52	1694008
 Rossano	52	2523578
 Lexington, NC	52	4475773
 Barcelona - Ulldecona - CAT	52	
@@ -17511,10 +17511,10 @@ Nova Iguaçu - RJ	52
   EU also uk 	52	
 Asgard 	52	
 Pessac, France	52	2987805
-Aargau, Schweiz	52	
+Aargau, Schweiz	52	2661876
 Santa Bàrbara, Tf +34 67873941	52	
 404	52	
-puebla, méxico	52	3523272
+puebla, méxico	52	3521082
 The Garden	52	
 Cassino	52	3179781
 USA.	52	6252001
@@ -17636,7 +17636,7 @@ NW Arkansas	52
 Auburn Hills, MI	52	5001836
 Bulandshahr, India	52	1275120
 Dhahran	52	107797
-Cajamarca, Perú	52	
+Cajamarca, Perú	52	3699087
 Juba	52	373303
 san diego, ca	52	5391811
 Charlottesville	52	4752031
@@ -17686,11 +17686,11 @@ Granada 	51	3619135
 Tallahassee, Fl	51	4174715
 Teresina, Piauí	51	3386496
 Sudbury/Timmins/North Bay/Sault Ste. Marie	51	
-Ciudad de México, México.	51	3523272
+Ciudad de México, México.	51	3530597
 UNICEF Headquarters New York	51	
 Everywhere & Nowhere	51	
 Jaboatão dos Guararapes, Brasi	51	
-Tamaulipas, México.	51	3523272
+Tamaulipas, México.	51	3516391
 Jos Nigeria	51	
 Haute-Savoie	51	
 Voorburg	51	2745321
@@ -17751,7 +17751,7 @@ The Genuine West	51
 Hudson, WI	51	5257080
 woodlawn,il	51	4917067
 C	51	
-कानपुर, भारत	51	
+कानपुर, भारत	51	1267995
 Medellín Colombia	51	
 Itabira	51	3460960
 Newport, South Wales	51	
@@ -17914,7 +17914,7 @@ Nation Wide	51
 Philly/Seattle/CR	51	
 USA #FreedomEndures #WWDM 	51	
 Nairobi, Kenya 🇰🇪	51	184745
-Rixensart, Belgique	51	
+Rixensart, Belgique	51	2787989
 port harcourt	51	2324774
 iPhone: 37.776634,-122.407928	51	
 Stankonia	51	
@@ -18018,9 +18018,9 @@ American Fork, UT	50	5844096
 Chelan, WA	50	5789826
 brisbane/ boring / weirdo	50	
 re	50	6690283
-Oran, Algérie	50	
+Oran, Algérie	50	2485920
 #BlackLivesMatter	50	
-North Holland, The Netherlands	50	
+North Holland, The Netherlands	50	2749879
 Côte-d'Or, Bourgogne	50	3030965
 Salta, Argentina.	50	3838231
 Sitio Web: http://bit.ly/1taeAGc	50	
@@ -18064,7 +18064,7 @@ Upstate	50
 Georgetown, MA	50	6254926
 Congo Brazzaville	50	
 Aceh Selatan	50	
-Chiclayo, Perú	50	
+Chiclayo, Perú	50	3698350
 RM/Pescara/Francavilla al Mare	50	
 Orlando, FL 	50	4167147
 🇺🇬	50	
@@ -18074,7 +18074,7 @@ Looking all my life	50
 Desert Hot Springs, CA	50	5332921
 The Berkshires	50	
 Avalon	50	3035768
-Nivelles, Belgique	50	
+Nivelles, Belgique	50	2790101
 Eko Federal 	50	
 Los 916.445 km² de Venezuela 	50	
 Cairo/NYC	50	
@@ -18098,9 +18098,9 @@ Edge of News	50
 Srikakulam, India	50	1255647
 Kebbi, Nigeria	50	2597363
 Ibada, Nigeria	50	2328926
-Daejeon, Republic of Korea	50	
+Daejeon, Republic of Korea	50	1835224
 Campinas-SP	50	
-Czech republic	50	
+Czech republic	50	3077311
 Albany, California	50	5322850
 Hawaiian Islands	50	
 Shoreham-by-Sea, England	50	2637916
@@ -18146,7 +18146,7 @@ Eden	50	4464873
 Naples, Florida   USA	50	
 Roissy-en-France, France	50	2983073
 Hanover, Lower Saxony	50	2910831
-रायपुर, भारत	50	
+रायपुर, भारत	50	1258980
 Spring Gap	50	
 DuBois, PA	50	5187432
 Ubiquitous 	50	
@@ -18167,7 +18167,7 @@ Carlisle, UK	50	2653775
 New City, NY	50	5128481
 Ciudad de Buenos Aires, Ar	50	4099753
 Charleston 	50	4574324
-perú	50	
+perú	50	3932488
 Beautiful Central Coast Cali	50	
 none of your business 	50	
 Zero tolerance 4 Maga 🖕	50	
@@ -18311,7 +18311,7 @@ Westmont, IL	50	4916207
 Saline, MI	50	5001836
 London. 	50	2643743
 Montreal, Qc	50	6077243
-Puebla, México 	50	3523272
+Puebla, México 	50	3521082
 Interstellar	50	
 guess	50	
 West London, England	50	6269131
@@ -18350,7 +18350,7 @@ Montego Bay, Jamaica	50	3489460
 Tottenville Staten Island, NY	50	5128638
 Nairobi, KE	50	
 EveryNoWhere	50	
-Nationwide, UK	50	2635167
+Nationwide, UK	50	
 Barcelona-Spain	50	
 Chillán	50	
 Boerne, TX	50	4736286
@@ -18582,7 +18582,7 @@ Osogbo, Nigeria	49	2325590
 Chiloé, Los Lagos	49	
 Osogbo	49	2325590
 Saint-Pierre, La Réunion	49	3015267
-Dammam, Kingdom of Saudi Arabia	49	
+Dammam, Kingdom of Saudi Arabia	49	2287781
 Heaven On Earth	49	
 Aveiro	49	2742610
 Philadelphia,PA	49	4560349
@@ -18639,7 +18639,7 @@ Planet X	49
 Santa Cruz Xoxocotlán, Oaxaca	49	3517517
 İstanbul/Turkey	49	
 Pure Michigan	49	
-Piemonte	49	
+Piedmont	49	3170831
 North West London	49	
 All Over The World	49	
 LFK	49	4708308
@@ -18657,7 +18657,7 @@ Anzoategui	49	3649198
 Rosario - Santa Fe - Argentina	49	
 Deal, England	49	6269131
 Apure, Venezuela	49	3649151
-Jeddah,Kingdom of Saudi Arabia	49	
+Jeddah,Kingdom of Saudi Arabia	49	2287781
 Wherever I want to be	49	
 Commonwealth of Massachusetts	49	
 saturno	49	
@@ -18688,7 +18688,7 @@ Simcoe County	49
 TURKEY 	49	298795
 Frankfort, Kentucky	49	4292188
 Little Axe, Oklahoma, USA	49	4544379
-จ.เชียงใหม่, ประเทศไทย	49	
+จ.เชียงใหม่, ประเทศไทย	49	1605651
 Golf course	49	
 Fermo	49	3177099
 País Valencià 	49	
@@ -18831,7 +18831,7 @@ Seattle, Washington USA	48
 Táchira - Venezuela	48	
 Baltimore, MD USA	48	
 ✶ ✶ ✶ ✶	48	
-Якутск, Россия	48	
+Якутск, Россия	48	2013159
 TCE / CPE.	48	
 Tarragona, España 🇪🇸	48	3108288
 Westford, MA	48	4955219
@@ -18949,7 +18949,7 @@ Roeselare	48	2787889
 தமிழ்நாடு 	48	
 North Kingstown, RI	48	5223672
 Wayne, PA	48	5218270
-Arequipa, Perú	48	
+Arequipa, Perú	48	3947319
 Convergence Zone, WA	48	5815135
 King County, WA	48	5815135
 Portland, Oregon  USA	48	
@@ -19046,7 +19046,7 @@ Torrelavega	48	3107775
 Guadalajara Jalisco México	48	
  NY	48	5128638
 พญาไท, กรุงเทพมหานคร	48	1609350
-Zaventem, België	48	
+Zaventem, België	48	2783310
 Torre Stark	48	
 Dolores Hidalgo Cuna de la Ind	48	
 Viale della Trinità dei Monti	48	
@@ -19070,7 +19070,7 @@ Out here	48
 Prairie View, TX	48	4720493
 Mushroom Kingdom	48	
 The Cake District	48	
-Tienen, België	48	
+Tienen, België	48	2785470
 Victoria Concordia Crescit	48	
 Poços de Caldas, Brasil	48	3453303
 Gallatin, TN	48	4662168
@@ -19102,7 +19102,7 @@ Spiral Mountain	48
 my own state of PEACE of mind	48	
 Kassel, Hessen	48	
 Official Twitter Account	48	
-Xalapa, Veracruz, México.	48	
+Xalapa, Veracruz, México.	48	3526617
 São Paulo SP	48	
 uk 	48	2635167
 Tucker, GA	48	4197000
@@ -19115,7 +19115,7 @@ Saguenay, Québec	48	6325494
 Herriman, UT	48	5775782
 Odivelas, Portugal	48	2265467
 Philadelphia, PA / Miami, FL	48	
-Hilversum, The Netherlands	48	
+Hilversum, The Netherlands	48	2754064
 Inver Grove Heights, MN	48	5031412
 Lemoore, CA	48	5365918
 in the clouds	48	
@@ -19328,7 +19328,7 @@ Hong Kong & Florida	47
 Colombia Bonhomía del Marrano	47	
 Turku	47	633679
 Schertz, TX	47	4736286
-मेरठ, भारत	47	
+मेरठ, भारत	47	1263214
 Central Iowa	47	
 Mission, Texas as far right as	47	
 Mercury, France	47	3017382
@@ -19432,7 +19432,7 @@ ars sine scientia nihil est	47
 La Spezia, Liguria	47	3175081
 Ongwediva	47	3354147
 Northeast PA	47	
-Västerås, Sverige	47	
+Västerås, Sverige	47	2664454
 Amelia, OH	47	4505219
 italia nord centro sud	47	
 Miami,Fl	47	4164138
@@ -19443,7 +19443,7 @@ Uganda, Nigeria	47	2328926
 Hexham, United Kingdom	47	2647007
 Cal	47	317953
 Araure, Portuguesa. Venezuela	47	
-Berne, Suisse	47	
+Berne, Suisse	47	2661552
 Itapetininga, SP, Brazil	47	3469034
 Bishops Stortford	47	2655562
 México city	47	
@@ -19509,7 +19509,7 @@ Brooklyn!	47
 Amazonía Ecuatoriana	47	
 WISCONSIN	47	5279468
 Santa Elena, Ecuador	47	7062138
-देहरादून, भारत	47	
+देहरादून, भारत	47	1269750
 The Free World	47	
 Panamá. Panamá	47	
 Mountlake Terrace, WA	47	5815135
@@ -19548,7 +19548,7 @@ St. Charles, MO	46	4398678
 P A S I O N	46	
 Fernando de la Mora	46	3438115
 Windsor, UK	46	2633842
-Sankt Gallen, Schweiz	46	
+Sankt Gallen, Schweiz	46	2658822
 Interzone	46	
 Port Moresby	46	2088122
 Socially Distant	46	
@@ -19624,7 +19624,7 @@ Italy, Europe and worldwide	46
 surakarta	46	1625812
 #Polonia 	46	
 LONDON England United Kingdom 	46	
-Solna, Sverige	46	
+Solna, Sverige	46	2661886
 Clacton-on-Sea, England	46	2652974
 Sarajevo, BiH	46	5328808
 Danville, PA	46	5186327
