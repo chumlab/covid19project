@@ -106,7 +106,7 @@ Madrid, España	11134	3117732
 Georgia, USA	11109	4197000
 Washington, D.C.	11065	4140963
 Denver, CO	11054	5419384
-Catalonia	10965	3336901
+Catalunya	10965	3336901
 Phoenix, AZ	10915	5308655
 Florida	10805	98
 Text RESIST to 50409	10803	
@@ -249,7 +249,7 @@ Jakarta	5278	1642907
 South East, England	5224	6269131
 Kentucky, USA	5194	6254925
 Caracas	5150	3646738
-California	5140	5332921
+Southern California	5140	5332921
 Birmingham, England	5124	2655603
 United States of America	5101	6252001
 Dublin, Ireland	5096	2964574
@@ -442,7 +442,7 @@ Mar del Plata, Argentina	2737	3430863
 Federal Capital Territory, Nig	2732	2328926
 Durham, NC	2730	4464368
 Oxford, England	2726	2640729
-Florida	2713	98
+South Florida	2713	98
 Harare, Zimbabwe	2709	1105844
 Amsterdam, The Netherlands	2679	2759794
 Montreal	2679	6077243
@@ -572,7 +572,7 @@ Luxembourg	2065	2960313
 Northern California	2058	
 Columbus, Ohio	2057	4509177
 Toronto, Ontario, Canada	2052	6167865
-California	2051	5332921
+SoCal	2051	5332921
 Port Harcourt, Nigeria	2051	2324774
 FRANCE	2049	3017382
 Nantes, France	2038	2990969
@@ -4483,7 +4483,7 @@ Here, there and everywhere	213
 Lakeland, GA	213	4204775
 Newcastle upon Tyne, UK	213	2641673
 Helena, MT	213	5656882
-Madrid	213	3117732
+Comunidad de Madrid	213	3117732
 Lleida, Catalunya	213	
 Aveiro, Portugal	213	2742610
 North Vancouver	213	
@@ -4649,7 +4649,7 @@ Anywhere, USA	205	6252001
 Pyrénées-Orientales et Aude	204	
 🇬🇭	204	2300660
 SPAIN	204	2510769
-Tuscany	204	3165361
+Toscana	204	3165361
 California USA	204	
 Fortaleza, Brazil	204	3399415
 🇭🇰	204	1819730
@@ -5768,7 +5768,7 @@ El Centro del Ciclón	163
 Madison	163	5261457
 Vista, CA	163	5406602
 Chicagoland, IL	163	4896861
-Catalonia	163	3336901
+Cataluña	163	3336901
 Lawrence, Kansas	163	4274277
 Greater New York City Area	163	
 Lakewood, NJ	163	5100280
@@ -5948,7 +5948,7 @@ Southern Command	158
 EL ALTO, LA PAZ y BOLIVIA.	158	
 PROVIDENCE, RHODE ISLAND	158	5224151
 Sanford, FL	158	4172086
-Bavaria	158	2951839
+Bayern	158	2951839
 PUERTO RICO	158	4566966
 Cave Creek, AZ	158	5288858
 Frankfurt am Main, Germany	158	2925533
@@ -6845,7 +6845,7 @@ LAGOS, NIGERIA	135	2332453
 Cape Breton, Nova Scotia	135	6091530
 International Space Station	135	
 Indianapolis, IN, USA	135	4259418
-Emilia-Romagna	135	3177401
+Emilia Romagna	135	3177401
 Clermont, FL	135	4155751
 Hic et ubique terrarum	135	
 Jersey City	135	5099836
@@ -8101,7 +8101,7 @@ Montería, Córdoba	114	3674453
 Caracas Venezuela 	114	
 Madurai-Meenakhshi-AmmanTemple	114	
 en route	114	
-Lombardy	114	3174618
+Lombardia	114	3174618
 venus	114	5466336
 Kill Devil Hills, NC	114	4474274
 Contagem / MG	114	
@@ -10686,7 +10686,7 @@ any pronouns	86
 Cienfuegos, Cuba	86	3564120
 España // Cataluña //Barcelona	86	
 Lekki, Lagos	86	2332121
-West Java	86	1642672
+Jawa Barat	86	1642672
 Rochester, South East	86	
 Kota Makassar	86	1622786
 Worli, Mumbai	86	1275339
@@ -17340,7 +17340,7 @@ Olympus Mons	52
 BsAs	52	
 Paramus, NJ	52	5102387
 VERO UOMO DI DIO!	52	
-East Java	52	1642668
+Jawa Timur	52	1642668
 Ζωγράφου	52	8358544
 46.869100,103.848242	52	
 Port Harcourt,Nigeria	52	2324774
@@ -18639,7 +18639,7 @@ Planet X	49
 Santa Cruz Xoxocotlán, Oaxaca	49	3517517
 İstanbul/Turkey	49	
 Pure Michigan	49	
-Piedmont	49	3170831
+Piemonte	49	3170831
 North West London	49	
 All Over The World	49	
 LFK	49	4708308
