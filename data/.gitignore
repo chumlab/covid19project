@@ -1,2 +1,3 @@
 # Don't upload big datasets to git
 *.tsv
+*.txt
