@@ -4,7 +4,7 @@ from .core import infer_geonameid
 
 def infer(tweets_path, cities_path, countries_path, admin1_path):
     
-    print("Loading datasets..")
+    print("Loading datasets...")
 
     # load ingest
     df = load_ingest_df(tweets_path)
@@ -15,7 +15,7 @@ def infer(tweets_path, cities_path, countries_path, admin1_path):
     admin1_df = load_admin1_df(admin1_path)
 
     print("Done.")
-    print("Augmenting and cleaning data..")
+    print("Augmenting and cleaning data...")
 
     # Add Canadian provinces
     admin1_df, cities_df = add_canadian_province_codes(admin1_df, cities_df)

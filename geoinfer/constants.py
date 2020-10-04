@@ -116,6 +116,7 @@ LOCATION_DISCARD = ['', 'none', '\\n', 'global', 'earth',
 """ 'As-is' inputs
 Set the geonameid manually of certain entries of 'tweet_user_location'
 """
+
 AS_IS_LOCATIONS = {
     "Caracas - Venezuela": 3640847,
     "日本 東京": 1850144, # Tokyo
