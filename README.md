@@ -14,7 +14,7 @@ See the [`data`](data) directory.
 
 ### Run
 
-See the [`example.ipny`](example.ipny) Jupyter notebook for an example run.
+See the [`example.ipynb`](example.ipynb) Jupyter notebook for an example run.
 
 ### Customize
 
