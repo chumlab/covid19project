@@ -1,47 +1,68 @@
 from .loaders import load_ingest_df, load_cities_df, load_countries_df, load_admin1_df
-from .transformers import add_canadian_province_codes, add_alt_countries, add_alt_admin1, clean, to_lower
-from .core import infer_geonameid
+from .transformers import add_canadian_province_codes, add_alt_countries, add_alt_admin1, clean, to_lower, substitute_as_is
+from .core import geonameid_from_location
 
-def infer(tweets_path, cities_path, countries_path, admin1_path):
-    
-    print("Loading datasets...")
+import numpy as np
 
-    # load ingest
-    df = load_ingest_df(tweets_path)
 
-    # load cities, countries, admin1
-    cities_df = load_cities_df(cities_path)
-    countries_df = load_countries_df(countries_path)
-    admin1_df = load_admin1_df(admin1_path)
+class geoinfer():
+    def __init__(self, tweets_path, cities_path, countries_path, admin1_path):
+        print("Loading datasets...")
 
-    print("Done.")
-    print("Augmenting and cleaning data...")
+        # load ingest
+        self.df = load_ingest_df(tweets_path)
 
-    # Add Canadian provinces
-    admin1_df, cities_df = add_canadian_province_codes(admin1_df, cities_df)
+        # load cities, countries, admin1
+        self.cities_df = load_cities_df(cities_path)
+        self.countries_df = load_countries_df(countries_path)
+        self.admin1_df = load_admin1_df(admin1_path)
 
-    # Add alternatives (countries)
-    countries_df = add_alt_countries(countries_df)
+        print("Done.")
+        print("Augmenting and cleaning data...")
 
-    # Add alternatives (admin1)
-    admin1_df = add_alt_admin1(admin1_df)
+        # Add Canadian provinces
+        self.admin1_df, self.cities_df = add_canadian_province_codes(
+            self.admin1_df, self.cities_df)
 
-    # Clean ingest
-    df = clean(df)
+        # Add alternatives (countries)
+        self.countries_df = add_alt_countries(self.countries_df)
 
-    # Lowercase comparison fields
-    (df, cities_df, admin1_df, countries_df) = to_lower(df, cities_df, admin1_df, countries_df)
+        # Add alternatives (admin1)
+        self.admin1_df = add_alt_admin1(self.admin1_df)
 
-    print("Done.")
-    print("Inferring geoname IDs (this can take a while)...")
+        # Clean ingest
+        self.df = clean(self.df)
 
-    # Split on comma (,)
-    # Add new 'elements' column ('tweet_user_location_copy' split list), used by the inferance
-    df['elements'] = df['tweet_user_location_copy'].map(lambda location: location.split(','))
+        # Lowercase comparison fields
+        (self.df, self.cities_df, self.admin1_df, self.countries_df) = to_lower(
+            self.df, self.cities_df, self.admin1_df, self.countries_df)
 
-    # Add new (inferred) 'geonameid' column 
-    df = infer_geonameid(df, cities_df, admin1_df, countries_df)
+        print("Done.")
 
-    print("Done.")
+    def infer_location(self, location):
+        """
+        Args:
+            location: a location string
+                e.g. "Los Angeles, CA"
+        """
+        try:
+            return geonameid_from_location(location, self.cities_df, self.admin1_df, self.countries_df)
+        except ValueError:
+            return np.nan
 
-    return df
+    def run(self):
+        """ Run the actual inferrance"
+        """
+        print("Inferring geoname IDs (this can take a while)...")
+
+        # Add new (inferred) 'geonameid' column.
+        # ('tweet_user_location_copy' is the cleaned and augmented copy of 'tweet_user_location')
+        self.df['geonameid'] = self.df['tweet_user_location_copy'].map(
+            lambda location: self.infer_location(location))
+
+        # Substitute "as-is" locations
+        self.df = substitute_as_is(self.df)
+
+        print("Done.")
+
+        return self.df
