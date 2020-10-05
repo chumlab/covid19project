@@ -6,6 +6,7 @@ import pandas as pd
 ### Loading functions
 """
 
+
 def load_ingest_df(ingestpath):
     """ Tweets user locations list
     Loading using pandas' read_csv (tab-deleted) to set 'tweet_id' dtype to int
@@ -23,10 +24,10 @@ def load_cities_df(citiespath):
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         cities_df = pd.read_csv(citiespath, sep='\t',
-                names=['geonameid', 'name', 'asciiname', 'altnames', 'latitude', 'longitude',
-                        'featclass', 'featcode', 'country', 'cc2', 'admin1', 'admin2', 'admin3', 'admin4',
-                        'population', 'elevation', 'gtopo30', 'timezone', 'moddate'],
-                dtype={'admin3': str}) # Does not work for some reason, hence the warning
+                                names=['geonameid', 'name', 'asciiname', 'altnames', 'latitude', 'longitude',
+                                       'featclass', 'featcode', 'country', 'cc2', 'admin1', 'admin2', 'admin3', 'admin4',
+                                       'population', 'elevation', 'gtopo30', 'timezone', 'moddate'],
+                                dtype={'admin3': str})  # Does not work for some reason, hence the warning
 
     # Alternate City names
     # The cities_df dataframe has an 'altnames' column that are CSVs
@@ -36,7 +37,7 @@ def load_cities_df(citiespath):
 
     cities_alt_df = cities_df.assign(
         altname=cities_df['altnames'].str.split(',')
-        ).explode('altname').reset_index(drop=True)
+    ).explode('altname').reset_index(drop=True)
 
     return cities_alt_df
 
@@ -57,5 +58,4 @@ def load_admin1_df(admin1path):
     'code' is '<country>.<admin1 for country>'
     """
     return pd.read_csv(admin1path, sep='\t',
-                names=['code', 'name', 'name ascii', 'geonameid'])
-
+                       names=['code', 'name', 'name ascii', 'geonameid'])
