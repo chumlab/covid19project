@@ -63,6 +63,9 @@ class geoinfer():
         # Substitute "as-is" locations
         self.df = substitute_as_is(self.df)
 
+        # Drop the temporary, cleaned up and normalized copy 'tweet_user_location'
+        self.df = self.df.drop(['tweet_user_location_copy'], axis=1)
+
         print("Done.")
 
         return self.df

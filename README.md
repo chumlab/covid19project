@@ -16,10 +16,7 @@ See the [`data`](data) directory.
 
 See the [`example.ipynb`](example.ipynb) Jupyter notebook for an example run.
 
-`geoinfer.run()` returns a [`Pandas`](https://pandas.pydata.org) `DataFrame` of the ingested tweets file, with two extra columns:
-
-* `tweet_user_location_copy`: a cleaned up and normalized copy of `tweet_user_location` (can be discarded)
-* `geonameid`: the inferred geonameid
+`geoinfer.run()` returns a [`Pandas`](https://pandas.pydata.org) `DataFrame` of the ingested tweets file (columns `['tweet_user_location', 'tweet_id']`, with an extra `geonameid` column.
 
 ### Customize
 
